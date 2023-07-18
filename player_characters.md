@@ -2,10 +2,10 @@
 title: Player Characters
 description: 
 published: true
-date: 2023-07-16T05:15:52.249Z
+date: 2023-07-18T03:17:55.429Z
 tags: character, player character
 editor: markdown
-dateCreated: 2023-07-14T18:17:54.795Z
+dateCreated: 2023-07-18T00:42:00.737Z
 ---
 
 # A Functional Team
