@@ -2,10 +2,10 @@
 title: Blood & Sand
 description: 
 published: true
-date: 2023-07-16T05:46:31.014Z
+date: 2023-07-18T03:25:53.822Z
 tags: blood & sand, faction
 editor: markdown
-dateCreated: 2023-07-16T05:40:54.992Z
+dateCreated: 2023-07-18T00:42:03.126Z
 ---
 
 # Description
