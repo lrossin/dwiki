@@ -2,12 +2,12 @@
 title: Locations
 description: 
 published: true
-date: 2023-07-16T04:47:03.924Z
+date: 2023-07-18T02:16:07.505Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-15T20:26:18.387Z
+dateCreated: 2023-07-18T00:41:56.614Z
 ---
 
 *TODO:everything*
 
-List of [all locations](https://wiki.lllllllllll.duckdns.org/t/location?sort=title)
+List of [all locations](https://dwiki.whateverishere.net/t/location?sort=title)
