@@ -2,14 +2,14 @@
 title: Factions
 description: 
 published: true
-date: 2023-07-16T04:52:10.677Z
+date: 2023-07-18T02:16:50.422Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-15T20:26:38.197Z
+dateCreated: 2023-07-18T00:41:50.482Z
 ---
 
 *TODO:everything*
 
 Each faction should have its own page. Each page must include the faction tag. Pages for characters and locations associated with a faction should contain a tag with that faction's name.
 
-List of [all factions](https://wiki.lllllllllll.duckdns.org/t/faction?sort=title).
+List of [all factions](https://dwiki.whateverishere.net/t/faction?sort=title).
