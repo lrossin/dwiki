@@ -2,15 +2,13 @@
 title: Shadows of Dark Wall
 description: 
 published: true
-date: 2023-07-18T02:37:51.517Z
+date: 2023-07-18T02:39:39.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:52.519Z
 ---
 
-The Borderlands has been contested throughout recorded history and its landscape is littered with ancient fortresses, blood-soaked battlefields, and dread ruins, all crumbling relics of the empires that once ruled there. Now the dangers facing the Borderlands are greater than ever. Monsters are slipping across the porous border to terrorize and plunder. Travel has grown perilous, and the borderforts are becoming increasingly isolated and outmatched. The ambitious, bold, and greedy have begun to gather in Cyfaraun, ancient capital of the borderlands, seeking glory and gold.
-
-
+The Borderlands has been contested throughout recorded history and its landscape is littered with ancient fortresses, blood-soaked battlefields, and dread ruins, all crumbling relics of the empires that once ruled there. Now the dangers facing the Borderlands are greater than ever. Monsters are slipping across the porous border to terrorize and plunder. Travel has grown perilous, and the borderforts are becoming increasingly isolated and outmatched. The ambitious, bold, and greedy have begun to gather in Cyfaraun, ancient capital of the borderlands, seeking glory and gold..
 
 # Setting Background
 The Pillars of Dawn separate Northern Argollë from the rolling hills of Southern Argollë. In ancient days, Southern Argollë was the forested heartland of the ancient Argollëan Empire, but the elves and the forests have both largely been eliminated. Nowadays, it is the easternmost province of the Auran Empire. Southern Argollë extends eastward to the Tëhonaurë (“Deep Ocean”), which expands endlessly outward to the rising sun.
