@@ -2,16 +2,30 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-16T05:05:42.195Z
+date: 2023-07-20T23:26:36.326Z
 tags: city, location, cyfaraun
 editor: markdown
-dateCreated: 2023-07-16T04:46:22.184Z
+dateCreated: 2023-07-18T00:42:22.118Z
 ---
 
 # Descriptions
-Cyfaraun is the capital of the Borderlands. It is a walled city of more than 10,000 people.
-*TODO:insert map*
+Cyfaraun is the capital of the prefecture of the Borderlands in Southern Argollë. It used to be an elven city until the Auran Empire conquered it a few hundred years ago. A lot of elven architecture is still visible in the city’s old districts. Like most Auran cities, Cyfaraun has a large sewer system, but the Cyfaraun sewers are unusualbecause they’re built in and through the ruins and rubble of an even older elven city. The local storytellers claim the city’s underground architecture encompasses everything from ancient catacombs to chthonic temples to criminal hideouts. The city’s residents tend to say that the storytellers, like the sewers, are just full of shit. ![city_map.png](/city_map.png)
 
+Cyfaraun is a walled city of more than 10,000 people. It is protected by an imperial Prefect of the city: Justirius Tavicus Basilio
+
+The day to day bussiness of the city is left to the Municipal Council. The Eight seats on the council are each responsible for one of the major city districts. The current council includes:
+
+**House   /  District**
+Drakomir    /   Lake  
+Balefanabrio  /  Bridge
+Durato  / Festival
+Lazareo  /  Plaza
+Ambador  /  Old City 
+Cellëppes  / Palace
+Zeodan  /  Tower
+Ommandor  /  Temple
+
+The City guard currently stands at roughly 350 men and are commanded by Tribune Narmirio Drakomir.
 # Rumours
 
 
