@@ -2,10 +2,10 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-16T05:17:01.917Z
+date: 2023-07-21T01:44:20.912Z
 tags: character, player character
 editor: markdown
-dateCreated: 2023-07-15T00:16:50.739Z
+dateCreated: 2023-07-18T00:42:37.216Z
 ---
 
 Grug is a half-orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
@@ -13,13 +13,14 @@ Grug is a half-orc bar-BEAR-ian, and a current member of [A Functional Team](/pl
 ![](/characters/grug.jpg =25%x)
 
 # Background
-Probably has one.
+Raised by bears and probably people at some point, given that she knows how to speak. Doesn't answer many questions about her past but will reveal she is originally from Jutland.
 
 # Items
 Grug currently hold the following items of note:
 
 -   [The Hole^TM^](/items/the_hole)
 -   a big stick
+-   4 silver acorns (summon fey)
 
 # Journal
 
