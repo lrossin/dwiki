@@ -2,12 +2,12 @@
 title: Burr
 description: 
 published: true
-date: 2023-07-16T05:16:30.013Z
+date: 2023-07-21T01:53:08.072Z
 tags: character, player character
 editor: markdown
-dateCreated: 2023-07-15T00:41:06.447Z
+dateCreated: 2023-07-18T00:42:32.969Z
 ---
 
-A ghost bear or something. Honestly, I don't know. 
+Is actually a ghost bear lol. Grug's dearly departed brother, returned to this world through a necklace of his teeth. The teeth were taken as totem worship but had the accidental benefit of resurrecting Burr for one hour each day as a fey spirit.
 
 Friends with [Grug](/player_characters/grug).
