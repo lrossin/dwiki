@@ -2,13 +2,13 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-21T01:44:20.912Z
+date: 2023-07-21T02:08:31.365Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z
 ---
 
-Grug is a half-orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
+Grug is a ~~half-orc~~ orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
 
 ![](/characters/grug.jpg =25%x)
 
