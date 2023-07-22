@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-22T19:42:15.811Z
+date: 2023-07-22T19:43:26.220Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -79,6 +79,8 @@ Guess its time to head back to the Festival District and see where this ambush i
 
 ### A New Vision (Session 6)
 I had another vision. This time the message wasn’t hidden behind omens and symbolism. It was like I was there, watching the town folk get rounded up. Something bad is happening here, those creatures were … human?! Who or what could be causing these mutations and why are they collecting more people? Is this happening all over the Borderlands?! I think I’ll need to start telling my traveling companions about my mission and the visions Ianna has bestowed me with. If this is happening in real-time, we will need to take action quickly!
+> Listen guys there’s something you don’t know about why I came to the city. I had a vision before we met, an omen of sorts that something evil was to the east. The goddess Ianna saved me from this evil but has tasked me with stopping it. 
+I am still struggling to understand what this omen could mean. All I remember is this beating heart in the darkness, with sinewy tendrils hunting me, but yesterday I had another vision. This time it felt like I was there at this tavern between the city and Tor Tem. The tavern was on fire and surrounded by beastmen and mutated humans. They took many prisoners, I can only assume to mutate them as well. This must be related to my first vision, I’m just not sure how. I think we should set out towards Tor Tem as soon as possible to check out this tavern and what is out there. Something evil is afoot here and I can’t stop it alone.
 
 ### The Ambush & Consequences (Session 6/7)
 After a short time at the inn, we set out to the tavern Weary’s Rest. It seems the gang has picked the perfect place for an ambush. Although its not something I want to make a habit of in the city, I’m glad they thought out the plan thoroughly. Unfortunately, I got knocked out quickly, which allowed one of the spies to escape. Now the gang knows my face, which could be problematic. Sadly, we didn’t get any leads on their hideout, but we did receive our first bounty reward. 
