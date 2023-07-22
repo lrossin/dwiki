@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-22T20:45:23.524Z
+date: 2023-07-22T20:48:29.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -14,3 +14,5 @@ All pages here should contain the 'npc' tag, so that searching for it results in
 Pages for characters associated with a particular factions should contain a tag with that factions name.
 
 # NPCs of Cyfaraun
+- [Regent Aures Ambador](/npcs/new-page)
+- [Barnabas](/npcs/barnabas)
