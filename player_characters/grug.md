@@ -2,7 +2,7 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-21T02:08:31.365Z
+date: 2023-07-22T20:18:24.074Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z
@@ -19,7 +19,7 @@ Raised by bears and probably people at some point, given that she knows how to s
 Grug currently hold the following items of note:
 
 -   [The Hole^TM^](/items/the_hole)
--   a big stick
+-   Bough of the Wandering Oak[new-page](/items/new-page)
 -   4 silver acorns (summon fey)
 
 # Journal
