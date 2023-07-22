@@ -2,13 +2,13 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-22T20:28:15.504Z
+date: 2023-07-22T20:32:01.974Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z
 ---
 
-Grug is a ~~half-orc~~ orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
+[Bough_of_the_Wandering_Oak](/items/Bough_of_the_Wandering_Oak)Grug is a ~~half-orc~~ orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
 
 ![](/characters/grug.jpg =25%x)
 
@@ -19,7 +19,7 @@ Raised by bears and probably people at some point, given that she knows how to s
 Grug currently hold the following items of note:
 
 -   [The Hole^TM^](/items/the_hole)
--   [Bough of the Wandering Oak](/items/Bough_of_the_wandering_oak)
+-  [Bough of the Wandering Oak](/items/Bough_of_the_Wandering_Oak)
 -   4 silver acorns (summon fey)
 
 # Journal
