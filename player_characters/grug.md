@@ -2,13 +2,13 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-23T13:55:16.380Z
+date: 2023-07-23T13:55:36.745Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z
 ---
 
-[Bough_of_the_Wandering_Oak](/items/Bough_of_the_Wandering_Oak)Grug is a ~~half-orc~~ orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Friends with [Burr](/player_characters/burr). Soon to be a bird mom.
+[Bough_of_the_Wandering_Oak](/items/Bough_of_the_Wandering_Oak)Grug is a ~~half-orc~~ orc bar-BEAR-ian, and a current member of [A Functional Team](/player_characters). Siblings with [Burr](/player_characters/burr). Soon to be a bird mom.
 
 ![](/characters/grug.jpg =25%x)
 
