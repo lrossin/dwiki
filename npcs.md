@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-23T16:39:59.563Z
+date: 2023-07-23T16:45:29.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -15,12 +15,12 @@ Pages for characters associated with a particular factions should contain a tag 
 
 # NPCs of Cyfaraun
 ### Mercenary Guild
--
--
--
+- [Guildmaster Balcadar Brogitarius](/npcs/Balcadar_Brogitarius)
+- [Ivar](/npcs/Ivar)
+- [Retried Sergant Wirtham](
 
 ### Tower of Knowledge
-- [Regent Aures Ambador](/npcs/new-page)
+- [Regent Aures Ambador](/npcs/aures_ambador)
 
 ### Temple of the Bladed Veil
 - [Blade Dancer Valara](/npcs/Blade_Dancer_Valara)
