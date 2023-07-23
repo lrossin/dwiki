@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-23T16:46:17.993Z
+date: 2023-07-23T16:55:36.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -19,12 +19,12 @@ Pages for characters associated with a particular factions should contain a tag 
 - [Ivar](/npcs/Ivar)
 - [Retired Sergeant Wirtham](/npcs/Retired_Sergeant_Wirtham)
 
-
 ### Tower of Knowledge
 - [Regent Aures Ambador](/npcs/aures_ambador)
 
 ### Temple of the Bladed Veil
 - [Blade Dancer Valara](/npcs/Blade_Dancer_Valara)
+- [Zeadora Ambador](/npcs/zeadora_ambador)
 
 ### Sand and Blood
 - [Barnabas](/npcs/barnabas)
