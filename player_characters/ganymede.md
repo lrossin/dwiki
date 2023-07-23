@@ -2,10 +2,10 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-16T05:16:44.020Z
+date: 2023-07-23T22:47:57.444Z
 tags: character, player character
 editor: markdown
-dateCreated: 2023-07-14T19:05:12.600Z
+dateCreated: 2023-07-18T00:42:35.078Z
 ---
 
 Ganymede is a human(?), from somewhere, a warlock of some sort, and a current member of [A Functional Team](/player_characters).
@@ -14,13 +14,13 @@ Ganymede is a human(?), from somewhere, a warlock of some sort, and a current me
 
 # Background
 
-???????????
+""Back round"? oh thats just this old shield I've got under my cloak."
 
 # Items
 
 Ganymede currently holds the following items of note:
 
--   weird shit here
+-   +1 Shield- A magic shield forged by Elves. Despite its tattered appearance,it offers superior protection. It was sold to Ganymede by an Orkish vendor for 400 gold.  
 
 # Diary
 
