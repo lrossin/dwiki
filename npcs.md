@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-23T16:55:36.797Z
+date: 2023-07-23T18:40:05.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -26,5 +26,6 @@ Pages for characters associated with a particular factions should contain a tag 
 - [Blade Dancer Valara](/npcs/Blade_Dancer_Valara)
 - [Zeadora Ambador](/npcs/zeadora_ambador)
 
-### Sand and Blood
+### Sand and Bone
+
 - [Barnabas](/npcs/barnabas)
