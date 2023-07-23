@@ -2,13 +2,13 @@
 title: Bough of the Wandering Oak
 description: Grug's Maul
 published: true
-date: 2023-07-23T13:46:00.967Z
+date: 2023-07-23T18:35:35.158Z
 tags: item, magic item
 editor: markdown
 dateCreated: 2023-07-23T13:35:39.710Z
 ---
 
-Bough of the Wandering Oak
+![great_club_colossal_weapon_elden_ring_wiki_guide_200px.png](/items/great_club_colossal_weapon_elden_ring_wiki_guide_200px.png)Bough of the Wandering Oak
 Magic item
 
 +1 Magical Weapon
