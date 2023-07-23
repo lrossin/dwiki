@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-22T19:43:26.220Z
+date: 2023-07-23T17:03:44.382Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -24,9 +24,9 @@ I am still struggling to understand what this omen could mean. All I remember is
 
 Praahi currently hold the following items of note:
 - Claw of Ianna
-- Stone of Good Luck
-- Cloak of Protection
-- Quiver of Ehlonna
+- [Stone of Good Luck](https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone)
+- [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
+- [Quiver of Ehlonna](https://www.aidedd.org/dnd/om.php?vo=quiver-of-ehlonna)
 - Scrying Ruinic Iron Rods (3)
 
 # Journal
