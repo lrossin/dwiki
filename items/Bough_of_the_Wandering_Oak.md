@@ -2,7 +2,7 @@
 title: Bough of the Wandering Oak
 description: Grug's Maul
 published: true
-date: 2023-07-23T18:36:14.222Z
+date: 2023-07-23T18:36:24.990Z
 tags: item, magic item
 editor: markdown
 dateCreated: 2023-07-23T13:35:39.710Z
