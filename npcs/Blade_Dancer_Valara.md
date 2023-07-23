@@ -2,8 +2,8 @@
 title: Blade Dancer Valara
 description: Blade Dancer of Ianna in Cyfaraun
 published: true
-date: 2023-07-23T16:37:29.126Z
-tags: 
+date: 2023-07-23T16:41:58.492Z
+tags: character, npc, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-23T16:37:29.126Z
 ---
