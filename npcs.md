@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-23T16:45:50.812Z
+date: 2023-07-23T16:46:17.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -17,7 +17,8 @@ Pages for characters associated with a particular factions should contain a tag 
 ### Mercenary Guild
 - [Guildmaster Balcadar Brogitarius](/npcs/Balcadar_Brogitarius)
 - [Ivar](/npcs/Ivar)
-- [Retired Sergant Wirtham](
+- [Retired Sergeant Wirtham](/npcs/Retired_Sergeant_Wirtham)
+
 
 ### Tower of Knowledge
 - [Regent Aures Ambador](/npcs/aures_ambador)
