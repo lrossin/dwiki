@@ -2,7 +2,7 @@
 title: Mercenary Guild
 description: Exactly what it sounds like
 published: true
-date: 2023-07-23T15:41:35.872Z
+date: 2023-07-23T15:47:11.907Z
 tags: faction
 editor: markdown
 dateCreated: 2023-07-23T15:41:35.872Z
@@ -10,8 +10,13 @@ dateCreated: 2023-07-23T15:41:35.872Z
 
 # Description
 The Mercenary Guild is a source of muscle for hire across the borderlands. It is currently headed by [Guildmaster Balcadar Brogitarius](/npcs/Balcadar_Brogitarius) and its guild hall is located in the southern old town district of Cyfaraun. The guild often provides guards for caravans, bounties for bandits, and guards/scrying points for the Tower of Knowledge.
+
 *image/map goes here*
 
+**NPCs**:
+[Balcadar Brogitarius](/npcs/Balcadar_Brogitarius)
+[Ivar](/npcs/Ivar)
+[Retired_Sergeant_Wirtham](/npcs/Retired_Sergeant_Wirtham)
 # Rumours
 *rumours about this faction and the source go here*
 
