@@ -2,16 +2,18 @@
 title: Barnabas
 description: the Honey Merchant
 published: true
-date: 2023-07-16T05:51:02.392Z
-tags: character, npc, blood & sand
+date: 2023-07-23T15:05:14.808Z
+tags: character, blood & sand, npc
 editor: markdown
-dateCreated: 2023-07-16T04:04:25.167Z
+dateCreated: 2023-07-18T00:42:26.471Z
 ---
 
 > "Look Barnabas is an upstanding purveyor of fine amber delight and to say otherwise is wildly slanderous." -LannGeal(Fitz)
 
 # Description
 Barnabus is a middle-aged halfling merchant that the party met on their way to [Cyfaraun](/locations/cyfaraun). He is a member of the [Blood & Sand](/factions/blood_and_sand), and can be found at the [Silk Pony](/locations/cyfaraun/gamblers_quarter#inns-and-taverns).
+
+![barnabas.png](/npcs/barnabas.png =25%x)
 
 # History with the party
 ## Rescued from being eaten by trolls
