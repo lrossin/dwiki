@@ -2,7 +2,7 @@
 title: Grug
 description: 
 published: true
-date: 2023-07-22T20:32:01.974Z
+date: 2023-07-23T13:55:16.380Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z
@@ -20,8 +20,8 @@ Grug currently hold the following items of note:
 
 -   [The Hole^TM^](/items/the_hole)
 -  [Bough of the Wandering Oak](/items/Bough_of_the_Wandering_Oak)
--   4 silver acorns (summon fey)
-
+-   4 [Acorns of Woodland Ally](/items/Acorn_of_Woodland_Ally)
+- [adamantine scale mail](/https://www.dndbeyond.com/magic-items/4845-adamantine-scale-mail)
 # Journal
 
 ### Session 2
