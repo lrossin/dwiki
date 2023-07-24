@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-24T19:40:40.921Z
+date: 2023-07-24T20:58:15.781Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -30,5 +30,5 @@ Pages for characters associated with a particular factions should contain a tag 
 
 - [Barnabas](/npcs/barnabas)
 
-### City Guard
-[baltar_lazareo](/npcs/baltar_lazareo)
+### [City Guard](/factions/city_guard)
+- [Baltar Lazareo](/npcs/baltar_lazareo)
