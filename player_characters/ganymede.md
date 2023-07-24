@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-24T00:51:06.883Z
+date: 2023-07-24T16:20:47.097Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -34,6 +34,12 @@ This tool was procurred when we purged subjects of Dirgion who lurked deep in th
 When a suit of shiftweave is created, up to five different outfits can be embedded into the cloth. While wearing the clothing, you can speak its command word as a bonus action to transform your outfit into your choice of one of the other designs contained within it. Regardless of its appearance, the outfit can’t be anything but clothing. Although it can duplicate the look of other magical clothing, it doesn’t gain their magical properties.
 
 This asthoning garment was gifted to Ganymede by his father before he set out on his journeys.
+- Forms:
+1 Elegant red shirt 
+2 City Guard uniform
+3
+4
+5
 # Diary
 
 ### Star date: session two
