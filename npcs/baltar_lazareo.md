@@ -2,14 +2,14 @@
 title: Baltar Lazareo
 description: Cousin to the head of the Lazareo family and a short tempered dueler 
 published: true
-date: 2023-07-24T17:30:59.967Z
+date: 2023-07-24T17:31:34.991Z
 tags: lazareo
 editor: markdown
 dateCreated: 2023-07-24T17:30:59.967Z
 ---
 
 # Description
-A young man with considerable connections and a skillful swordsman. 
+A young man with considerable connections and skill with a blade.  
 
 # Rumours
 *rumours about this character and the source go here*
