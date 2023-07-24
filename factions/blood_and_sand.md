@@ -2,7 +2,7 @@
 title: Sand & Bone
 description: 
 published: true
-date: 2023-07-24T16:24:43.134Z
+date: 2023-07-24T17:06:06.810Z
 tags: blood & sand, faction
 editor: markdown
 dateCreated: 2023-07-18T00:42:03.126Z
@@ -13,6 +13,7 @@ A criminal organization in [Cyfaraun](/locations/cyfaraun). Their signiture is p
 
 
 *image/map goes here*
+# Important NPCs
 
 # Rumours
 The City Watch told Ganymede the gang is fairly new in Cyfaraun, only being present for the last 2 or three years.
