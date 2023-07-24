@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-23T22:47:57.444Z
+date: 2023-07-24T00:50:35.037Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -14,14 +14,26 @@ Ganymede is a human(?), from somewhere, a warlock of some sort, and a current me
 
 # Background
 
-""Back round"? oh thats just this old shield I've got under my cloak."
+""Back round"?. Oh thats just this old shield I've got under my cloak."
 
 # Items
 
 Ganymede currently holds the following items of note:
 
--   +1 Shield- A magic shield forged by Elves. Despite its tattered appearance,it offers superior protection. It was sold to Ganymede by an Orkish vendor for 400 gold.  
+-   +1 Shield
+A magic shield forged by Elves. Despite its tattered appearance,it offers superior protection. It was sold to Ganymede by an Orkish vendor for 400 gold.  
 
+- Rod of the Pact Keeper
+While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.
+
+In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
+
+This tool was procurred when we purged subjects of Dirgion who lurked deep in the sewers, far below the Bridge District.
+
+- Shiftweave Suit
+When a suit of shiftweave is created, up to five different outfits can be embedded into the cloth. While wearing the clothing, you can speak its command word as a bonus action to transform your outfit into your choice of one of the other designs contained within it. Regardless of its appearance, the outfit can’t be anything but clothing. Although it can duplicate the look of other magical clothing, it doesn’t gain their magical properties.
+
+This asthoning garment was gifted to Ganymede by his father before he set out on his journeys.
 # Diary
 
 ### Star date: session two
