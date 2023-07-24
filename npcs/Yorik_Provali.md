@@ -2,8 +2,8 @@
 title: Yorik Provali
 description: Chapter Master of School of Artifice at the Temple of Knowledge
 published: true
-date: 2023-07-24T22:10:35.268Z
-tags: 
+date: 2023-07-24T22:11:33.191Z
+tags: character, npc, tower of knowledge
 editor: markdown
 dateCreated: 2023-07-24T21:09:35.663Z
 ---
