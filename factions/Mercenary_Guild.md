@@ -2,7 +2,7 @@
 title: Mercenary Guild
 description: Exactly what it sounds like
 published: true
-date: 2023-07-24T17:05:22.441Z
+date: 2023-07-24T17:06:29.699Z
 tags: faction, mercenary guild
 editor: markdown
 dateCreated: 2023-07-23T15:41:35.872Z
@@ -13,7 +13,7 @@ The Mercenary Guild is a source of muscle for hire across the borderlands. It is
 
 *image/map goes here*
 
-# NPCs
+# Important NPCs
 [Balcadar Brogitarius](/npcs/Balcadar_Brogitarius)
 [Ivar](/npcs/Ivar)
 [Retired_Sergeant_Wirtham](/npcs/Retired_Sergeant_Wirtham)
