@@ -2,7 +2,7 @@
 title: City Guard
 description: The City Guard consists of 335 members who uphold the rule of law in the city of Cyfaraun.
 published: true
-date: 2023-07-24T22:23:48.942Z
+date: 2023-07-24T22:26:56.105Z
 tags: faction, city guard
 editor: markdown
 dateCreated: 2023-07-24T16:51:18.179Z
@@ -32,7 +32,7 @@ We delivered the captured members of Sand & Bone to Watch Captain Landris, in ex
 
 The next day we collected the 250gp bounty from Sergeant Luin at the main guard outpost, not far from the Mercenary guild. There we learned that the guards would pay for information about Sand & Bone and we were warned again that they were a dangerous group.
 
-Ganymede, impersonating a veteran, heard several rumors and made three friendly contacts.
+Ganymede, impersonating a veteran, heard several rumors and made three friendly contacts in the week leading up to the festival.
 1. Sergeant of the Lake District
 2. Sergeant under the command of a Centurion who was made to release Baltor
 3. And the third one...
