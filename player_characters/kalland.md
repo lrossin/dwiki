@@ -2,10 +2,10 @@
 title: Sir Kalland Boondiggles
 description: 
 published: true
-date: 2023-07-16T05:17:29.807Z
+date: 2023-07-24T21:16:09.621Z
 tags: character, player character
 editor: markdown
-dateCreated: 2023-07-15T01:03:06.441Z
+dateCreated: 2023-07-18T00:42:39.393Z
 ---
 
 Sir Kalland Boondiggles is a rock [gnome](https://www.youtube.com/watch?v=1FFBsX5C61Q), a battle smith artificer, and a current memmber of [A Functional Team](/player_characters). Often accompanied by his steel defender [Bunteloaf](/player_characters/bunteloaf).
@@ -17,6 +17,7 @@ Sir Kalland Boondiggles is a rock [gnome](https://www.youtube.com/watch?v=1FFBsX
 # Items
 Kalland currently holds the follwing items of note:
 -	[Inflatable Pegasus Belt](/items/inflatable_pegasus_belt)
+- 
 
 # Jounal
 ### Boondiggles adventurers guide to the Borderlands vol 3: 
