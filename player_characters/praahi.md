@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-24T22:37:14.843Z
+date: 2023-07-24T22:38:33.185Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -30,7 +30,7 @@ Praahi currently hold the following items of note:
 - Scrying Ruinic Iron Rods (3)
 
 # Journal
-### The Troll Cave (Session 3)
+## The Troll Cave (Session 3)
 We set out early in the morning from the travel house we’d been staying at, fog covered the path making it difficult to see. We followed the river, but I had an eerie feeling. I kept my eye on the forest, as bandits and beastmen are known to lurk around these parts. Even the couple at the travel house warned us of the dwindling patrols in the area. As per usual Ganymede, Kalland, and Zulban stuck towards the back. Ganymede always looking for poisonous insect/plants and Zulban just trying to keep Kalland from getting lost, while watching our back. Grug, being more intune with the wilderness decided to lead today.
 
 Grug could see wagon tracks ahead of us, likely travellers from earlier in the day,  meanwhile Ganymede is collecting insects with Zulban’s help. Luckily the woods were clear and we weren’t in a rush. As we made our way to the bridge we could just make out 4 figures in the mist and an overturned cart. They were about 100ft out, two smaller figures and two larger. Ganymede and I decided to sneak up to get a closer look. The two smaller figures were frantically unloading the cart, while the larger figures were armed and standing guard. Then I noticed blood on the bridge, and claw marks on the wagon.
@@ -45,7 +45,7 @@ Eventhough Grug is pretty beat up Zulban and Kalland still insisted on going Nor
 
 Eventually I heard Ganymede calling for help with his loot. I joined him on the other side of the cave to collect things. Although looking for loot while we are fighting is deplorable, he did share the loot with the group, maybe this is someone I can trust, just not in a fight. On our way back it seems the halfling, Barnabas had finally woken up. A bit startled by Grug, he eventually found he could trust us. 
 
-### Countryside Inn (Session 3)
+## Countryside Inn (Session 3)
 We fixed up Barnabas' wagon and loaded it back up with what was left of his honey and his chest. We continued on our journey toward Cyfaraun, now with the inside scoop of where to go and who to talk to, thanks to Barnabas. He even knew of the local blade dancer temple. 
 
 We made it to an inn for the night and split up our treasure from the cave. I got a cat-eye gem, which I hope to make a necklace out of, and an odd-looking stone cat head. After having the stone for a while I realized it was magical and seemed to be good luck. Most of the loot was coin, which we split equally, and art pieces we plan to sell. Interestingly there is a puzzle box that seems to contain something. I’m not very good at puzzles but maybe one of the others can figure it out.
@@ -53,19 +53,19 @@ We made it to an inn for the night and split up our treasure from the cave. I go
 While we ate and drank at the inn I decided to talk with some other travelers. The group was made up of 2 merchants, 2 passengers, and 4 guards. The passengers, Nefric and Loris Olminer were coming from Aura to visit their cousin. Apparently, they have “a number of interests in the city” they want to check on. They didn’t really clarify, but they must be important if they are traveling with 4 guards. They seem a bit pompous and elitist, but were keen to gossip and who am I to say no? 
 
 According to the siblings the wizard, Regent Aures Ambador, was sent to oversee the Chapter House (Cyfraun’s Tower of Knowledge). Since the capital city’s tower is the only ‘true’ tower of knowledge he must’ve done something to be sent away. Additionally, they warned me not to trust him, as he is hiring and sending people to their deaths in the waste. While telling this story, the local merchants, seemed less convinced.
-### Travel to Cyfaraun (Session 4)
+## Travel to Cyfaraun (Session 4)
 We set out around 8:00 AM after morning beers. It's another misty morning, but Barnabas seems to know where he’s going. We follow him to meet his business associates to get passage to the Festival District. We veer off the path a bit and head to the docks, where about 6 people are waiting. They seem hesitant at our arrival, especially Grug, but Barnabas does his best to ensure them that we are friends. They seem surprised that Barnabas expected them to ferry us as well. As they load the cart onto the barge, Barnabas negotiated our passage as well. He seems a bit frazzled after that encounter, hopefully we didn’t cause him too much trouble. 
 
 While we travel along the Miren River, which transects the city, we get to know the crew a bit. They seem intentionally nondescript, but clearly travel this route often. We begin to realize that their helping their employer avoid taxes on goods. They covered all the goods with hay and filled the cart with sacks of grain. We were quickly waved through by the tower and none of the patrol boats stopped us. Eventually we landed at the docks in the Festival Ward.
 
 We quickly split ways with Barnabas, but we should be meeting back up with him at the Silk Pony in a few days. His boss might reward us for returning him and his goods unscathed. Until then we decided to stay at the Half Full Tanker, a nearby inn/tavern that is extremely cheap. ONLY 5GP/WEEK!!! Although cheap I look forward to better accommodations in the future. 
 
-### First Day in Cyfaraun
+## First Day in Cyfaraun
 Kalland, Grug, Zulban, and I set off to the market to do some shopping. Ganymede again elected to be alone and separate from the group … On our journey, we crossed a large bridge with a street magician. He was magnificent, forming figures with colorful smoke, I’d never seen such beautiful magic! He had a small imp running around spreading local gossip about travelers from Aura failing in the Borderlands. The stories quickly remind me of the travelers we met at the countryside inn. Perhaps they are destined to fail here too. 
 
 After a while, we find the market. The colorful, bustling market reminded me of the markets in Opalinia. I even found a shop that carried exotic curiosities, including a statue of Ianna from back home. It’s difficult to see Ianna pictured as a human in the city. It’s nice to have a keepsake of her lioness form I am used to. The others seemed to find some interesting goods as well. Grug even bought a bird!
 
-### The Mercenary Guild (Session 5)
+## The Mercenary Guild (Session 5)
 Most of us signed up for the Mercenary Guild and the tasks seems pretty doable. I'm especially pleased we can work on 2 assignments at the same time. They offer free lodging and death benefits for all members, which is pretty nice. All the people there look fairly well off, I hope we can start making some money soon. It sounds like these jobs will get us out of the city, maybe I’ll find out more information about my vision, especially if we head east. 
 
 It seems Ganymede has gotten himself into some trouble while we were out and now he wants to drag us into it to. I'm sorry he got mugged, but I'm not sure if we should start a fight with a gang this soon. Hopefully, this ambush plan doesn't come back to bite us. Maybe if we find their hideout and place a spike there, this could be worthwhile. I'm sure there is a bounty for some of these gang members as well.
@@ -77,20 +77,20 @@ Guess it's time to head back to the Festival District and see where this ambush 
 
 Guess its time to head back to the Festival District and see where this ambush is going to take place.
 
-### A New Vision (Session 6)
+## A New Vision (Session 6)
 I had another vision. This time the message wasn’t hidden behind omens and symbolism. It was like I was there, watching the town folk get rounded up. Something bad is happening here, those creatures were … human?! Who or what could be causing these mutations and why are they collecting more people? Is this happening all over the Borderlands?! I think I’ll need to start telling my traveling companions about my mission and the visions Ianna has bestowed me with. If this is happening in real-time, we will need to take action quickly!
 > Listen guys there’s something you don’t know about why I came to the city. I had a vision before we met, an omen of sorts that something evil was to the east. The goddess Ianna saved me from this evil but has tasked me with stopping it. 
 I am still struggling to understand what this omen could mean. All I remember is this beating heart in the darkness, with sinewy tendrils hunting me, but yesterday I had another vision. This time it felt like I was there at this tavern between the city and Tor Tem. The tavern was on fire and surrounded by beastmen and mutated humans. They took many prisoners, I can only assume to mutate them as well. This must be related to my first vision, I’m just not sure how. I think we should set out towards Tor Tem as soon as possible to check out this tavern and what is out there. Something evil is afoot here and I can’t stop it alone.
 
-### The Ambush & Consequences (Session 6/7)
+## The Ambush & Consequences (Session 6/7)
 After a short time at the inn, we set out to the tavern Weary’s Rest. It seems the gang has picked the perfect place for an ambush. Although its not something I want to make a habit of in the city, I’m glad they thought out the plan thoroughly. Unfortunately, I got knocked out quickly, which allowed one of the spies to escape. Now the gang knows my face, which could be problematic. Sadly, we didn’t get any leads on their hideout, but we did receive our first bounty reward. 
 
 I wonder if there is some mercenary work in the city we could work on before heading out to Tor Tem. Someone has to be interested in the dead bodies showing up in the Bridge District. Grug even mentioned Lizard Folk in the sewer, seems there is much to learn about this new city we have arrived in.
 
-### Sewer Temple of Duergean (Session 13)
+## Sewer Temple of Duergean (Session 13)
 Well I'm glad somebody knows how to use magic ... I dragged Grug to the surface and hung out until she woke up, even made her an antitoxin poltice to help. She really inhaled alot of those incense. Im happy to be back on the surface and away from that necromantic energy, except I can still feel it. This veil blocking me from Ianna. My sisters at the temple did their best to help me, but to no avail. I did learn that another blade daughter had similar visions, but she disappeared. I hope I dont meet the same fate. For now we need to head South and find this ancient pool of healing. Sounds like our only chance to cleanse our souls of this mark. As a bonus we were already headed that way! How hard can it be to find a long lost elven shine in the bandit filled woods?!
 
-### Training Arc (Session 14)
+## Training Arc (Session 14)
 Its scary to think that someone with higher skill than myself disappeared after having the same visions. If I am going to head toward Tor Tem, and that inn from my vision I’ll need to learn more and train harder. I hope to work my way up in rank before I’m faced with this greater evil, for now I will train with my fellow blade-dancers. It seems I still have much to learn, just being fast isn’t enough anymore. 
 
 It seems Grugs training proved much more fruitful. She is now known as the Heavy Weight Champ of the Mercenary guild, news has already spread through the city and folks are interested in recruiting her for jobs and the gladiatorial arena. 
