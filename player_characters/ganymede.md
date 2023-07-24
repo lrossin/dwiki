@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-24T00:50:35.037Z
+date: 2023-07-24T00:51:06.883Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -14,7 +14,7 @@ Ganymede is a human(?), from somewhere, a warlock of some sort, and a current me
 
 # Background
 
-""Back round"?. Oh thats just this old shield I've got under my cloak."
+""Back round"? Oh thats just this old shield I've got under my cloak."
 
 # Items
 
