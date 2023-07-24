@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-23T17:03:44.382Z
+date: 2023-07-24T22:26:53.036Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -10,7 +10,7 @@ dateCreated: 2023-07-18T00:42:41.592Z
 
 Praahi is a tabaxi, a blade dancer, and a current member of [A Functional Team](/player_characters).
 
-![](/characters/praahi.png =25%x)
+![picture4.png](/characters/picture4.png)
 
 # Background
 It’s been 6 years since I left home and found my blade sisters. Over the last 6 years, I have trained hard to learn the ways of the sword dancers and of the lioness, Ianna. If it weren’t for Evalyn teaching me to channel my anger, I probably would’ve ended up a criminal. I owe everything to her and Ianna, they gave me strength. It's hard to believe I have to leave them already.
