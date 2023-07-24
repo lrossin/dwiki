@@ -2,13 +2,13 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-24T22:32:03.726Z
+date: 2023-07-24T22:37:05.371Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
 ---
 
-Praahi is a tabaxi blade daughter from Opalennia, and a current member of [A Functional Team](/player_characters). 
+Praahi is a [tabaxi](http://dnd5e.wikidot.com/tabaxi) blade daughter from Opalennia, and a current member of [A Functional Team](/player_characters). 
 
 ![picture4.png](/characters/picture4.png)
 
