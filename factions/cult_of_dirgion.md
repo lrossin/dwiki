@@ -2,7 +2,7 @@
 title: Cult of Dirgion the Doombringer
 description: Necromantic pricks
 published: true
-date: 2023-07-24T19:29:47.510Z
+date: 2023-07-24T20:06:41.661Z
 tags: faction, dirgion
 editor: markdown
 dateCreated: 2023-07-24T19:29:47.510Z
@@ -39,7 +39,7 @@ We opted to look for a different way out and broke down another false wall that 
 ## The curse
 Following this pathway, we came to an ornate dome-shaped room with a skull in the center. All around the great hall were depictions of various gods, chief among them was Dirgion. 
 
-The skull came to life and offered to answer our questions. Kalland, Praahi, and Ganymede accepted the offer and learned that: There is a way out, Dirgion and Iskara are not allied, and...
+The skull came to life and offered to answer our questions. Kalland, Praahi, and Ganymede accepted the offer and learned that: There is a way out, Dirgion and Iskara are not allied, and that the way out was not in the same room.
 
 Later, the toll for an answer was revealed. The three of us who asked a quetion were given the mark of Dirgion and brought unwillingly into his cult. Consequently, whenever one of us is near death, subjects of Dirgion will come to collect our souls. However, the curse did reveal the exit and allowed us all to escape back to the surface. 
 
