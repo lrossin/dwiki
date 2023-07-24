@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-20T23:26:36.326Z
+date: 2023-07-24T21:34:01.590Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -43,3 +43,5 @@ The city is divided into a number of districts.
 [Bridge District](/locations/cyfaraun/bridge_district) The city is bisected by the Mirimen River, and 3 *(?)* bridges cross it.
 
 [Merchant's District](/locations/cyfaraun/merchants_district)
+
+[Lake District](/locations/cyfaraun/lake_district)
