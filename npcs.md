@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-23T18:40:05.545Z
+date: 2023-07-24T17:22:00.876Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -29,3 +29,6 @@ Pages for characters associated with a particular factions should contain a tag 
 ### Sand and Bone
 
 - [Barnabas](/npcs/barnabas)
+
+### City Guard
+
