@@ -2,7 +2,7 @@
 title: City Guard
 description: The City Guard consists of 335 members who uphold the rule of law in the city of Cyfaraun.
 published: true
-date: 2023-07-24T22:26:56.105Z
+date: 2023-07-24T23:40:38.456Z
 tags: faction, city guard
 editor: markdown
 dateCreated: 2023-07-24T16:51:18.179Z
@@ -15,11 +15,11 @@ The force is composed of 335 soldiers in total.
 - 300 common guards
 - 30 captains 
 - 3 Centurions
-- Chief Osvald Ulfricson
+- One Primus
 - Tribune Narmirio Drakomir
 
 # Rumors
-> Chief Osvald is rumored to be having an affair with the lady Lonia Celeppes, wife of Jonus Valerian Celeppes. 
+
 
 > Watchcaptains Varrick and Landris informed us that some soldiers are in cahoots with Sand & Bone (link) and other organized crime. 
 
