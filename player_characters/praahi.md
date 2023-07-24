@@ -2,13 +2,13 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-24T22:26:53.036Z
+date: 2023-07-24T22:28:26.682Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
 ---
 
-Praahi is a tabaxi, a blade dancer, and a current member of [A Functional Team](/player_characters).
+Praahi is a tabaxi blade daughter from Opalennia, and a current member of [A Functional Team](/player_characters). 
 
 ![picture4.png](/characters/picture4.png)
 
