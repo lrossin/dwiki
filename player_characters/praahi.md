@@ -2,8 +2,8 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-24T22:31:21.855Z
-tags: character, player character
+date: 2023-07-24T22:32:03.726Z
+tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
 ---
