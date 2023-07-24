@@ -2,7 +2,7 @@
 title: Guildmaster Balcadar Brogitarius
 description: 
 published: true
-date: 2023-07-24T22:16:35.760Z
+date: 2023-07-24T22:21:15.131Z
 tags: npc, mercenary
 editor: markdown
 dateCreated: 2023-07-23T15:12:04.733Z
@@ -10,6 +10,8 @@ dateCreated: 2023-07-23T15:12:04.733Z
 
 # Description
 A 47-year old Krysean with curly brown hair and swarthy skin. Balcadar has a barrel chest and thick biceps but has begun to grow soft around the middle. In informal situations most just call him "Bal". Bal is the guildmaster of the mercenaries guild and is well respected by it's members.
+
+![bal.png](/npcs/bal.png)
 
 # Rumours
 *rumours about this character and the source go here*
