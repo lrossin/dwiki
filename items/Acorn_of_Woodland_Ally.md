@@ -2,7 +2,7 @@
 title: Acorn of Woodland Ally
 description: Rare Wonderous Item
 published: true
-date: 2023-07-23T13:52:53.141Z
+date: 2023-07-24T22:51:13.064Z
 tags: item, wondrous item
 editor: markdown
 dateCreated: 2023-07-23T13:52:09.864Z
@@ -10,7 +10,7 @@ dateCreated: 2023-07-23T13:52:09.864Z
 
 # Acorn Of Woodland Ally
 Wonderous item
-
+![burr_oak_acorns.png](/items/burr_oak_acorns.png)
 History:
 
 Silvery acorns dropped when the [Bough of the Wandering Oak](/items/Bough_of_the_Wandering_Oak) reaches maturity. Four were dropped the first time the Oak reached full size.
