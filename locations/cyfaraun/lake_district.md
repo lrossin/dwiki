@@ -2,21 +2,20 @@
 title: Lake District
 description: The Lake District of Cyfaraun is home to a bustling lake and elegant villas belonging to the city's most elite families.
 published: true
-date: 2023-07-24T16:11:17.820Z
+date: 2023-07-24T16:54:22.353Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T14:35:50.458Z
 ---
 
-*TODO:everything*
+# Description
+The lake district is home to extravagant villas,several wineries and upscale bars. The lake district is overseen by House Drakomir. Each family on the Council of Eight has a home along the lake, making this district a focal point for those interested in politics.
 
-List of [all locations](https://dwiki.whateverishere.net/t/location?sort=title)
+# Rumors
+> Rumor has it that some of the noble houses conspire against Prefect Justitius Tavicus Basilio, infavor of hous Drakomir.
+> - Whoever Ganymede overheard
+# Places of Note
+- The Harliquins Mask
 
-- The Lake District is oversseen by house Drakomir.
-Headed by Arjenus Drakomir. 
-
-- Each family on the Council of Eight has a home along the lake, making this district a focal point for those interested in the politcs of the city and beyond.
-Rumor has it that some of these noble houses conspire against the Prefect of the city, Justirius Tavicus Basilio, in favor of house Drakomir. 
-
-- Beyond the extravagant villas, th elake district houses several wineries and upscale bars, including:
-The Harliquins Mask- home to Hugo, a signature wine, decorated with intracate serpents and vines. 
+# Important NPCs
+- Arjenus Drakomir. 
