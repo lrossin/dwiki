@@ -1,19 +1,18 @@
 ---
-title: Baltar Lazareo
+title: Chief Osvald Ulfricson
 description: Cousin to the head of the Lazareo family and a short tempered dueler 
 published: true
-date: 2023-07-24T22:14:04.254Z
-tags: character, npc, lazareo
+date: 2023-07-24T23:50:36.383Z
+tags: character, npc, drakomir
 editor: markdown
 dateCreated: 2023-07-24T17:30:59.967Z
 ---
 
 # Description
-A young man with considerable connections and skill with a blade. Looks like a rich prick trying to dress like a fencer, but wears excessive jewelry ruining the basic nature of fencing clothes.  
+Chief Osvald oversees the house guard of the Drakomir's. He is a seasoned warrior, he and his men are imported from Jutland and are uninvested in imperial politics.
 
 # Rumours
-> Despite his prowess, he tends to fight dirty and has allegedly killed at least three minor nobles in unsanctioned duels. 
+> It is said that he and the lady Ionia, the wife of Jonus Valerian Celeppes, are having an affair. 
 
-> He's been on a terror lately. Looking to stick his sword in anyone.
+
 # Interaction with Party
-Praahi and Sister Darion prevented Baltar from getting violent with Eugene Balewife on the first day of the festival. 
