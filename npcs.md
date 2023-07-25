@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-25T02:32:50.100Z
+date: 2023-07-25T02:59:26.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -36,3 +36,6 @@ Pages for characters associated with a particular factions should contain a tag 
 
 ### Drakomir
 - [Chief Osvald Ulfricson](/npcs/chief_osvald_ulfricson)
+
+### ???
+["Vidi"] (/npc/vidi)
