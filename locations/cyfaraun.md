@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-25T20:25:28.961Z
+date: 2023-07-25T20:30:55.474Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -33,20 +33,23 @@ The City guard currently stands at roughly 350 men and are commanded by Tribune 
 # Notable Locations
 The city is divided into a number of districts.
 
-[Festival District](/locations/cyfaraun/festival_district) *TODO:info about festivals*
+## [Festival District](/locations/cyfaraun/festival_district) 
+*TODO:info about festivals*
+- [Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
 
-[Temple District](/locations/cyfaraun/temple_district)
+## [Temple District](/locations/cyfaraun/temple_district)
 
-[Tower District](/locations/cyfaraun/tower_district)
 
-[Old Town District](/locations/cyfaraun/old_town_district)
+## [Tower District](/locations/cyfaraun/tower_district)
+- [Tower of Knowledge](/locations/cyfaraun/tower_of_knowledge)
 
-[Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
+## [Old Town District](/locations/cyfaraun/old_town_district)
 
-[Bridge District](/locations/cyfaraun/bridge_district) The city is bisected by the Mirimen River, and 3 *(?)* bridges cross it.
+## [Bridge District](/locations/cyfaraun/bridge_district) 
+The city is bisected by the Mirimen River, and 3 *(?)* bridges cross it.
 
-[Merchant's District](/locations/cyfaraun/merchants_district)
+## [Merchant's District](/locations/cyfaraun/merchants_district)
 
-[Lake District](/locations/cyfaraun/lake_district)
+## [Lake District](/locations/cyfaraun/lake_district)
 
-Palace District
+## Palace District
