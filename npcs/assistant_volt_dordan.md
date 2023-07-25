@@ -2,8 +2,8 @@
 title: Assistant Volt Dordan
 description: 
 published: true
-date: 2023-07-24T22:38:41.612Z
-tags: tower of knowledge, orc, assistant, artificer, workshop
+date: 2023-07-25T02:46:53.524Z
+tags: npc, tower of knowledge, orc, assistant, artificer, workshop
 editor: markdown
 dateCreated: 2023-07-24T22:38:41.612Z
 ---
