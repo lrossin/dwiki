@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-25T20:30:55.474Z
+date: 2023-07-25T20:32:01.224Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -38,7 +38,8 @@ The city is divided into a number of districts.
 - [Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
 
 ## [Temple District](/locations/cyfaraun/temple_district)
-
+- Temple of the Bladed Veil
+- Temple of the Winged Sun
 
 ## [Tower District](/locations/cyfaraun/tower_district)
 - [Tower of Knowledge](/locations/cyfaraun/tower_of_knowledge)
