@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-25T20:32:01.224Z
+date: 2023-07-25T20:34:03.088Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -38,14 +38,14 @@ The city is divided into a number of districts.
 - [Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
 
 ## [Temple District](/locations/cyfaraun/temple_district)
-- Temple of the Bladed Veil
+- Temple of the Bladed Veil 
 - Temple of the Winged Sun
 
 ## [Tower District](/locations/cyfaraun/tower_district)
 - [Tower of Knowledge](/locations/cyfaraun/tower_of_knowledge)
 
 ## [Old Town District](/locations/cyfaraun/old_town_district)
-
+    
 ## [Bridge District](/locations/cyfaraun/bridge_district) 
 The city is bisected by the Mirimen River, and 3 *(?)* bridges cross it.
 
