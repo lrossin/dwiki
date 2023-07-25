@@ -2,8 +2,8 @@
 title: Zeadora Ambador
 description: Blade Sister of Ianna
 published: true
-date: 2023-07-23T16:54:28.483Z
-tags: 
+date: 2023-07-25T02:48:33.631Z
+tags: npc, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-23T16:54:28.483Z
 ---
