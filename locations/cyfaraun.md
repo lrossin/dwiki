@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-25T20:13:03.520Z
+date: 2023-07-25T20:16:09.599Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -37,6 +37,8 @@ The city is divided into a number of districts.
 
 [Temple District](/locations/cyfaraun/temple_district)
 
+[Tower District](/locations/cyfaraun/tower_district)
+
 [Old Town District](/locations/cyfaraun/old_town_district)
 
 [Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
@@ -46,3 +48,5 @@ The city is divided into a number of districts.
 [Merchant's District](/locations/cyfaraun/merchants_district)
 
 [Lake District](/locations/cyfaraun/lake_district)
+
+Palace District
