@@ -2,7 +2,7 @@
 title: Lake District
 description: The Lake District of Cyfaraun is home to a bustling lake and elegant villas belonging to the city's most elite families.
 published: true
-date: 2023-07-25T21:03:28.348Z
+date: 2023-07-25T21:04:20.448Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T14:35:50.458Z
@@ -26,3 +26,4 @@ Praahi was stationed here to protect the Sacred Courtesan during the first day o
 
 # Notable NPCs
 - Arjenus Drakomir. 
+- [Baltar Lazero](
