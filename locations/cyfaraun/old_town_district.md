@@ -2,7 +2,7 @@
 title: Old City District
 description: The original footprint of Cyfaraun III stands within the walls of the old city. Many stone structures within this district demonstrate their elven origin though they have been repurposed by their Auran inhabitants.
 published: true
-date: 2023-07-25T20:56:04.496Z
+date: 2023-07-25T21:10:48.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-21T00:04:22.701Z
@@ -36,7 +36,7 @@ The Mink is a popular watering hole and trade hub for travelling caravaners and 
 - Damanos the Collector 
 - Sells exotic treasures like bones, moster bits, holy symbols, and rare books.
 ### Articifer Creations
-- Nestomachos "The Mad Smith" Meniri Dwarf
+- Nestomachos ([Nestromo](/npcs/nestromo)) "The Mad Smith" Meniri Dwarf
 - Sells his own magic creations, you never know what he'll think up.
 
 ### Vassen Winery
