@@ -2,7 +2,7 @@
 title: Lake District
 description: The Lake District of Cyfaraun is home to a bustling lake and elegant villas belonging to the city's most elite families.
 published: true
-date: 2023-07-25T20:57:07.572Z
+date: 2023-07-25T20:57:26.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T14:35:50.458Z
@@ -19,5 +19,5 @@ The lake district is home to extravagant villas, several wineries, and upscale b
 Home of Hugo, a rich wine from the Hugolite estates in the hills near the border between Kryea and Southern Argolle.
 - It comes in a unique green bottle decorated with imagery of serpents and grape vines. It is rumored that the Serpent depiction is a nod to the peppery "Bite" their otherwise semi-sweet wines all share.
 
-# Important NPCs
+# Notable NPCs
 - Arjenus Drakomir. 
