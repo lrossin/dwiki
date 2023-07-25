@@ -1,8 +1,8 @@
 ---
-title: Guildmaster Balcadar Brogitarius
-description: 
+title: Balcadar Brogitarius
+description: Guildmaster of Mercenary Guild
 published: true
-date: 2023-07-24T22:21:15.131Z
+date: 2023-07-25T21:07:40.504Z
 tags: npc, mercenary
 editor: markdown
 dateCreated: 2023-07-23T15:12:04.733Z
