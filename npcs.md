@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-24T23:55:49.724Z
+date: 2023-07-25T00:07:25.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -35,4 +35,4 @@ Pages for characters associated with a particular factions should contain a tag 
  [Baltar Lazareo](/npcs/baltar_lazareo)
 
 ### Drakomir
-- [Chief Osvald Ulfricson](/npcs/baltar_lazareo)
+- [Chief Osvald Ulfricson](/npcs/chief_osvald_ulfricson)
