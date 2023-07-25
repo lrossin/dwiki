@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-24T21:34:01.590Z
+date: 2023-07-25T20:13:03.520Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -15,15 +15,16 @@ Cyfaraun is a walled city of more than 10,000 people. It is protected by an impe
 
 The day to day bussiness of the city is left to the Municipal Council. The Eight seats on the council are each responsible for one of the major city districts. The current council includes:
 
-**House   /  District**
-Drakomir    /   Lake  
-Balefanabrio  /  Bridge
-Durato  / Festival
-Lazareo  /  Plaza
-Ambador  /  Old City 
-Cellëppes  / Palace
-Zeodan  /  Tower
-Ommandor  /  Temple
+| House | District|
+|------|----------|
+| Drakomir | Lake |
+| Balefanabrio | Bridge |
+|Durato  | Festival|
+|Lazareo  |  Plaza|
+|Ambador  |  Old City |
+|Cellëppes  | Palace|
+|Zeodan  |  Tower|
+|Ommandor  |  Temple|
 
 The City guard currently stands at roughly 350 men and are commanded by Tribune Narmirio Drakomir.
 # Rumours
