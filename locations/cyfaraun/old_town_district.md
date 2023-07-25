@@ -2,7 +2,7 @@
 title: Old City District
 description: The original footprint of Cyfaraun III stands within the walls of the old city. Many stone structures within this district demonstrate their elven origin though they have been repurposed by their Auran inhabitants.
 published: true
-date: 2023-07-21T00:04:22.701Z
+date: 2023-07-25T20:37:47.631Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-21T00:04:22.701Z
@@ -21,13 +21,13 @@ The Mink is a popular watering hole and trade hub for travelling caravaners and 
 
 
 # Notable NPCS
-Pyros the chandler
-Galen the apothecary
-Elpides the ironmonger
+Pyros the Chandler
+Galen the Apothecary
+Elpides the Ironmonger
 Damanos the Collector
-Lazar The Jeweler
-Bassida the proprietor of Sheer Luxury
-Giander the cartwright
+Lazar the Jeweler
+Bassida the Proprietor of Sheer Luxury
+Giander the Cartwright
 Tavus the Nimblefingered
 Vason Tikala "The Nicean"
 Vir Tor Meniri
