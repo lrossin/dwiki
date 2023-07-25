@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-25T02:59:52.326Z
+date: 2023-07-25T03:00:16.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -38,4 +38,4 @@ Pages for characters associated with a particular factions should contain a tag 
 - [Chief Osvald Ulfricson](/npcs/chief_osvald_ulfricson)
 
 ### ???
-["Vidi"](/npc/vidi)
+["Vidi"](/npcs/vidi)
