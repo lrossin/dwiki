@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-07-25T20:16:09.599Z
+date: 2023-07-25T20:25:28.961Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -28,7 +28,7 @@ The day to day bussiness of the city is left to the Municipal Council. The Eight
 
 The City guard currently stands at roughly 350 men and are commanded by Tribune Narmirio Drakomir.
 # Rumours
-
+> Many come to the Borderlands from Aura thinking they will make money/gain influence and fail. 
 
 # Notable Locations
 The city is divided into a number of districts.
