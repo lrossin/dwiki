@@ -2,7 +2,7 @@
 title: Lake District
 description: The Lake District of Cyfaraun is home to a bustling lake and elegant villas belonging to the city's most elite families.
 published: true
-date: 2023-07-25T21:06:02.295Z
+date: 2023-07-25T21:06:22.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T14:35:50.458Z
@@ -22,7 +22,7 @@ Home of Hugo, a rich wine from the Hugolite estates in the hills near the border
 ## Noble Charter
 Praahi was stationed here to protect the Sacred Courtesan during the first day of the Festival of the Sun.
 - Expected very little issue, just good to have the reminder.
-- A young noble (Baltar Lazareo) and his onterage started making a ruckus with another young noble about bloodlines. This was resolved quickly by Praahi without any violence.
+- A young noble ([Baltar Lazareo](/npcs/baltar_lazareo)) and his onterage started making a ruckus with another young noble about bloodlines. This was resolved quickly by Praahi without any violence.
 
 # Notable NPCs
 - Arjenus Drakomir. 
