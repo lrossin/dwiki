@@ -1,8 +1,8 @@
 ---
-title: Assistant Volt Dordan
-description: 
+title: Dordin
+description: Assistant Vault Master
 published: true
-date: 2023-07-25T02:46:53.524Z
+date: 2023-07-26T01:30:16.612Z
 tags: npc, tower of knowledge, orc, assistant, artificer, workshop
 editor: markdown
 dateCreated: 2023-07-24T22:38:41.612Z
