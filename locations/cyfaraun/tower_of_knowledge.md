@@ -2,7 +2,7 @@
 title: Tower of Knowledge
 description: School of Magic in Cyfaraun
 published: true
-date: 2023-07-25T20:36:25.224Z
+date: 2023-07-26T01:30:54.214Z
 tags: faction, location, cyfaraun, tower district, istrius
 editor: markdown
 dateCreated: 2023-07-24T21:13:29.814Z
@@ -31,7 +31,8 @@ The Tower of Knowledge is the tallest building in Cyfaraun at 75ft tall. The tow
 
 # Notable NPCs
 - [Aures Ambador](/npcs/aures_ambador)
-- Assistant Vault Master Dordin
+- Assistant Vault Master [Dordin](/npcs/assistant_dordin)
+
 - [Yorik Provali, Master of Artifice](/npcs/Yorik_Provali)
 - Mara Revis, Tower Inspecter & Master of Divination
 - Provost Tavi, Master of Summoning
