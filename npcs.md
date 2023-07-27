@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2023-07-25T03:00:16.089Z
+date: 2023-07-27T14:58:49.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T00:41:58.697Z
@@ -32,10 +32,10 @@ Pages for characters associated with a particular factions should contain a tag 
 
 ### [City Guard](/factions/city_guard)
 ### Lazareo
- [Baltar Lazareo](/npcs/baltar_lazareo)
+- [Baltar Lazareo](/npcs/baltar_lazareo)
 
 ### Drakomir
 - [Chief Osvald Ulfricson](/npcs/chief_osvald_ulfricson)
 
 ### ???
-["Vidi"](/npcs/vidi)
+- ["Vidi"](/npcs/vidi)
