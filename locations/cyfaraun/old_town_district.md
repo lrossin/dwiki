@@ -2,8 +2,8 @@
 title: Old City District
 description: The original footprint of Cyfaraun III stands within the walls of the old city. Many stone structures within this district demonstrate their elven origin though they have been repurposed by their Auran inhabitants.
 published: true
-date: 2023-07-25T21:10:48.840Z
-tags: 
+date: 2023-07-27T15:16:28.707Z
+tags: location, cyfaraun, district
 editor: markdown
 dateCreated: 2023-07-21T00:04:22.701Z
 ---
