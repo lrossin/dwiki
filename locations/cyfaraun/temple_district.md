@@ -2,8 +2,8 @@
 title: Temple District
 description: Home to the many religious temples in Cyfaraun
 published: true
-date: 2023-07-27T15:13:16.162Z
-tags: 
+date: 2023-07-27T15:14:01.148Z
+tags: location, cyfaraun, district
 editor: markdown
 dateCreated: 2023-07-27T15:13:16.162Z
 ---
