@@ -2,7 +2,7 @@
 title: Lake District
 description: The Lake District of Cyfaraun is home to a bustling lake and elegant villas belonging to the city's most elite families.
 published: true
-date: 2023-07-26T02:35:37.800Z
+date: 2023-07-28T18:53:37.242Z
 tags: location, cyferaun
 editor: markdown
 dateCreated: 2023-07-24T14:35:50.458Z
@@ -13,7 +13,7 @@ The lake district is home to extravagant villas, several wineries, and upscale b
 
 # Rumors
 > Rumor has it that some of the noble houses conspire against Prefect Justitius Tavicus Basilio, in favor of house Drakomir.
-> - Whoever Ganymede overheard
+> - Vidi
 # Places of Note
 ## The Harliquins Mask
 Home of Hugo, a rich wine from the Hugolite estates in the hills near the border between Kryea and Southern Argolle.
