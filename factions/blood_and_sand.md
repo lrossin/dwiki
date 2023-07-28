@@ -2,14 +2,14 @@
 title: Sand & Bone
 description: 
 published: true
-date: 2023-07-24T17:06:06.810Z
+date: 2023-07-28T18:32:41.674Z
 tags: blood & sand, faction
 editor: markdown
 dateCreated: 2023-07-18T00:42:03.126Z
 ---
 
 # Description
-A criminal organization in [Cyfaraun](/locations/cyfaraun). Their signiture is putting sand in the mouts of their victims.
+A criminal organization in [Cyfaraun](/locations/cyfaraun). Their signiture is putting sand in the mouths of their victims.
 
 
 *image/map goes here*
