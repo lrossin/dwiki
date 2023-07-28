@@ -2,7 +2,7 @@
 title: City Guard
 description: The City Guard consists of 335 members who uphold the rule of law in the city of Cyfaraun.
 published: true
-date: 2023-07-24T23:40:38.456Z
+date: 2023-07-28T18:31:58.514Z
 tags: faction, city guard
 editor: markdown
 dateCreated: 2023-07-24T16:51:18.179Z
@@ -38,7 +38,6 @@ Ganymede, impersonating a veteran, heard several rumors and made three friendly 
 3. And the third one...
 # Important NPCs
 - Tribune Narmirio Drakomir
-- Chief Osvald Ulfricson oversses the Drakomir house guard.
 - Centurion Franciscus Gracilis
 - Centurion Augustinus Lartius
 - Centurion Phanostrata Maritialis
