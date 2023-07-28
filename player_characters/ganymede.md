@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-24T16:20:47.097Z
+date: 2023-07-28T18:47:29.809Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -19,18 +19,31 @@ Ganymede is a human(?), from somewhere, a warlock of some sort, and a current me
 # Items
 
 Ganymede currently holds the following items of note:
+## Vial of False Life
+ Casting Time: 1 action
+Range: Self
+Components: V, S, M (a small amount of alcohol or distilled spirits)
+Duration: 1 hour
 
--   +1 Shield
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+## Six toxic hand crossbow bolts, DC 14, toxin
+
+## Four vials to store poisons
+- 1 unit of powedered Gut Rot poison
+- 1 unit of materials to craft Dead Man's Blood (DC 15 CON, 4D6 necrotic damage and slowed condition)
+- 2 doses of Yellow Mold 
+##  +1 Shield
 A magic shield forged by Elves. Despite its tattered appearance,it offers superior protection. It was sold to Ganymede by an Orkish vendor for 400 gold.  
-
-- Rod of the Pact Keeper
+## Rod of the Pact Keeper
 While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.
 
 In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
 
 This tool was procurred when we purged subjects of Dirgion who lurked deep in the sewers, far below the Bridge District.
 
-- Shiftweave Suit
+## Shiftweave Suit
 When a suit of shiftweave is created, up to five different outfits can be embedded into the cloth. While wearing the clothing, you can speak its command word as a bonus action to transform your outfit into your choice of one of the other designs contained within it. Regardless of its appearance, the outfit can’t be anything but clothing. Although it can duplicate the look of other magical clothing, it doesn’t gain their magical properties.
 
 This asthoning garment was gifted to Ganymede by his father before he set out on his journeys.
