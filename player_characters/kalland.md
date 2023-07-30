@@ -2,7 +2,7 @@
 title: Sir Kalland Boondiggles
 description: 
 published: true
-date: 2023-07-30T15:43:27.556Z
+date: 2023-07-30T15:44:43.709Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:39.393Z
@@ -28,7 +28,7 @@ following Zulban(after things in the cavern seemed to have calmed down), he stum
 
 Survival Tip 2: Win the day, save the girl, save the world and drink copious amounts of mead.
 
-After my heroic display on the trash panda. I  stumbled upon an emerald lodged into a hilt with no blade. After collecting ourselves(and scattered pieces of bunt) we talked with a peculiar little halfling Barnabis. We began to set off towards the city Cyfaruan. During the night we found rest at a very small but nice inn. We relaxed and loosened up our achy joints with a few drinks. Still shaken that a mighty warrior like Zulban was taken down so effortlessly, I decided to ask him to see his shield. I began working my little fingers to infuse some of my magic into the shield. With thoughts of Zulbans god in mind I buff his shield to always keep him safe.
+After my heroic display on the trash panda. I  stumbled upon an emerald lodged into a blade-less hilt. After collecting ourselves(and scattered pieces of bunt) we talked with a peculiar little halfling Barnabis. We began to set off towards the city Cyfaruan. During the night we found rest at a very small but nice inn. We relaxed and loosened up our achy joints with a few drinks. Still shaken that a mighty warrior like Zulban was taken down so effortlessly, I decided to ask him to see his shield. I began working my little fingers to infuse some of my magic into the shield. With thoughts of Zulbans god in mind I buff his shield to always keep him safe.
 ### Session 14: Test of Knowledge
 today is the day of my test to get into the tower of knowledge. The grounds are booming with festivities, magic and shops galore. Upon arriving I find a nice salesman with trinkets, odds and ends that sort of thing. He shows me a peculiar marble, a marble of location. I couldn't help myself and spent a good chunk of my "savings" on it. 
 
