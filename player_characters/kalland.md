@@ -2,7 +2,7 @@
 title: Sir Kalland Boondiggles
 description: 
 published: true
-date: 2023-07-24T21:16:09.621Z
+date: 2023-07-30T15:17:01.225Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:39.393Z
@@ -15,7 +15,7 @@ Sir Kalland Boondiggles is a rock [gnome](https://www.youtube.com/watch?v=1FFBsX
 *TODO: fill out*
 
 # Items
-Kalland currently holds the follwing items of note:
+Kalland currently holds the following items of note:
 -	[Inflatable Pegasus Belt](/items/inflatable_pegasus_belt)
 - 
 
