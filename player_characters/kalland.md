@@ -2,7 +2,7 @@
 title: Sir Kalland Boondiggles
 description: 
 published: true
-date: 2023-07-30T15:17:01.225Z
+date: 2023-07-30T15:43:27.556Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:39.393Z
@@ -17,13 +17,14 @@ Sir Kalland Boondiggles is a rock [gnome](https://www.youtube.com/watch?v=1FFBsX
 # Items
 Kalland currently holds the following items of note:
 -	[Inflatable Pegasus Belt](/items/inflatable_pegasus_belt)
-- 
+- [Adder Stone](/items/adder_stone)
+- [Tears Of Gaia](/items/tears_of_gaia)
 
 # Jounal
 ### Boondiggles adventurers guide to the Borderlands vol 3: 
 Survival Tip 1: Avoid Trash 
 
-following Zulban(after things in the cavern seemed to have calmed down), he stumbles into a pit while searching for a cowardly Goblin. Then seemingly out of nowhere a big trash monster pops out and attacks zulban. big spiky tentacles and appendages start thrashing about zulban is shaken and wavers. i knew we were in trouble once it got one up on the mighty dwarf. Praahi and I jump in to back up our battleforged cleric. The trash seemed to overwhelmingly powerful. Zulban and my poor poor Bunty were knocked unconscious. seeing the broken pieces of my best and closest friend I lost the heart to battle. Words cannot express how lost I feel without my trusted steed and companion. Luckily Praahi was present, and with her immense reflexes and skills in battle. she bested the trash monster saving Zulban, bunty and myself from certain death.
+following Zulban(after things in the cavern seemed to have calmed down), he stumbles into a pit while searching for a cowardly Goblin. Then seemingly out of nowhere a big trash monster pops out and attacks zulban. big spiky tentacles and appendages start thrashing about zulban is shaken and wavers. i knew we were in trouble once it got one up on the mighty dwarf. Praahi and I jump in to back up our battleforged cleric. The trash seemed too overwhelmingly powerful. Zulban and my poor poor Bunty were knocked unconscious. seeing the broken pieces of my best and closest friend I lost the heart to battle. Words cannot express how lost I feel without my trusted steed and companion. Luckily Praahi was present, and with her immense reflexes and skills in battle. she bested the trash monster saving Zulban, bunty and myself from certain death.
 
 Survival Tip 2: Win the day, save the girl, save the world and drink copious amounts of mead.
 
