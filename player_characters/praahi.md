@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-01T15:06:59.344Z
+date: 2023-08-01T15:53:22.822Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -23,7 +23,7 @@ I am still struggling to understand what this omen could mean. All I remember is
 # Items
 
 Praahi currently hold the following items of note:
-- Claw of Ianna
+- [Claw of Ianna](/items/claw_ianna)
 - [Stone of Good Luck](https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone)
 - [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 - [Quiver of Ehlonna](https://www.aidedd.org/dnd/om.php?vo=quiver-of-ehlonna)
