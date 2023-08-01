@@ -1,15 +1,16 @@
 ---
-title: Adder Stone
-description: wondrous item, uncommon
+title: Claw of Ianna
+description: sword, uncommon (requires attunement)
 published: true
-date: 2023-07-30T15:24:38.439Z
-tags: wondrous item, magic item
+date: 2023-08-01T15:52:37.811Z
+tags: item, uncommon, magic item, weapon
 editor: markdown
 dateCreated: 2023-07-30T15:23:06.661Z
 ---
 
-This small stone hums when fey demons or undead creatures are within 100ft
 
-As a bonus action, you can peer through the stone and speak the command word for one minute, you can see any invisible objects or creatures whilst peering through it. When used in this way the stone becomes useless
+The Claw of Ianna counts as a magical sword for the purposes of bypassing resistances. 
 
-![adder_stone.webp](/items/adder_stone.webp)
+It grants the attuned wielder the ability to cast the cantrip Thaumaturgy at will. The wielder may also cast protection from evil (target self), once cast the sword cannot be used to cast this spell again until the attuned wielder has offered 10 minutes of prayer to Ianna at the new dawn.
+
+So this sword will awaken more powers depending on your actions
