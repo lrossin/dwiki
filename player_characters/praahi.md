@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-01T15:01:57.715Z
+date: 2023-08-01T15:06:59.344Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -107,15 +107,16 @@ I went to Beladora, one of Valra's second in command to find out any information
 I left the temple shortly after to meet up with the group at the Mercenary's Guild to figure out our next move. Many of the temples we stirring. The paladins of the Winged Sun joined the bolstered city watch. Both lightly armed and heavily armed folks could be seen throught the city. Something big was going on, it just isn't clear what. 
 
 More and more people began to return to the Mercenary Guild. Many different accounts of the situation were being discussed. Eventually Bal returned to confirm the stories.
-> A dragon with purple flames attacked Ceadonace at sunset last night. those touched by the flames were reformed as mosterous creatures and began attacking their neighbors
+
+> A dragon with purple flames attacked Ceadonace at sunset last night. those touched by the flames were reformed as monsterous creatures and began attacking their neighbors
 
 > Increased troll folk and wyvern are making their way to the borderforts along the river between the wastes.
 
 > Ogres and hillgiants have come down the mountain and are attacking Tor Tel
 
->The Bandit Drusis is sacking and burning villages along the Viaspen Forest. Making it difficult to combat army in the front, drusis in the back, and aerial attacks. 25,000 Gold & Vestiture for the group that brings back Drusis' head.
+> The Bandit Drusis is sacking and burning villages along the Viaspen Forest. Making it difficult to combat army in the front, drusis in the back, and aerial attacks. 25,000 Gold & Vestiture for the group that brings back Drusis' head.
 
->Troops of city guard, led by paladins are managing the undead threat. Our recent efforts in the sewers increased patrols, allowing Cyfaraun to manage the undead attacks.
+> Troops of city guard, led by paladins are managing the undead threat. Our recent efforts in the sewers increased patrols, allowing Cyfaraun to manage the undead attacks.
 
 We immediately headed to the docks to charter a boat down the lake tothe Viaspen Forest. Luckily, the guards at the docks recognized Grug from her recent work down there and offer to bring us on their trip to Tor Orn as added muscle. The only stipulations were that they were leaving now and it'd be a one way trip. We quickly boarded for the 8hr trip to Tor Orn. 
 
