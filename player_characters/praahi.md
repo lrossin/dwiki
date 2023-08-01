@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-01T15:54:10.421Z
+date: 2023-08-01T16:12:27.767Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -27,7 +27,8 @@ Praahi currently hold the following items of note:
 - [Stone of Good Luck](https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone)
 - [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 - [Quiver of Ehlonna](https://www.aidedd.org/dnd/om.php?vo=quiver-of-ehlonna)
-- Scrying  Rods (3) - Temple of Knowledge
+- Blessed Arrows (4)
+- [Scrying Rods](/items/scrying_rod) (3) - Temple of Knowledge
 
 # Journal
 ## The Troll Cave (Session 3)
