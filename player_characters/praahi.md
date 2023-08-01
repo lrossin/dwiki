@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-01T16:12:27.767Z
+date: 2023-08-01T19:25:54.395Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -61,7 +61,7 @@ While we travel along the Miren River, which transects the city, we get to know 
 
 We quickly split ways with Barnabas, but we should be meeting back up with him at the Silk Pony in a few days. His boss might reward us for returning him and his goods unscathed. Until then we decided to stay at the Half Full Tanker, a nearby inn/tavern that is extremely cheap. ONLY 5GP/WEEK!!! Although cheap I look forward to better accommodations in the future. 
 
-## First Day in Cyfaraun
+## First Day in Cyfaraun (Session 4/5)
 Kalland, Grug, Zulban, and I set off to the market to do some shopping. Ganymede again elected to be alone and separate from the group … On our journey, we crossed a large bridge with a street magician. He was magnificent, forming figures with colorful smoke, I’d never seen such beautiful magic! He had a small imp running around spreading local gossip about travelers from Aura failing in the Borderlands. The stories quickly remind me of the travelers we met at the countryside inn. Perhaps they are destined to fail here too. 
 
 After a while, we find the market. The colorful, bustling market reminded me of the markets in Opalinia. I even found a shop that carried exotic curiosities, including a statue of Ianna from back home. It’s difficult to see Ianna pictured as a human in the city. It’s nice to have a keepsake of her lioness form I am used to. The others seemed to find some interesting goods as well. Grug even bought a bird!
@@ -80,6 +80,7 @@ Guess its time to head back to the Festival District and see where this ambush i
 
 ## A New Vision (Session 6)
 I had another vision. This time the message wasn’t hidden behind omens and symbolism. It was like I was there, watching the town folk get rounded up. Something bad is happening here, those creatures were … human?! Who or what could be causing these mutations and why are they collecting more people? Is this happening all over the Borderlands?! I think I’ll need to start telling my traveling companions about my mission and the visions Ianna has bestowed me with. If this is happening in real-time, we will need to take action quickly!
+
 > Listen guys there’s something you don’t know about why I came to the city. I had a vision before we met, an omen of sorts that something evil was to the east. The goddess Ianna saved me from this evil but has tasked me with stopping it. 
 I am still struggling to understand what this omen could mean. All I remember is this beating heart in the darkness, with sinewy tendrils hunting me, but yesterday I had another vision. This time it felt like I was there at this tavern between the city and Tor Tem. The tavern was on fire and surrounded by beastmen and mutated humans. They took many prisoners, I can only assume to mutate them as well. This must be related to my first vision, I’m just not sure how. I think we should set out towards Tor Tem as soon as possible to check out this tavern and what is out there. Something evil is afoot here and I can’t stop it alone.
 
@@ -99,6 +100,25 @@ It seems Grugs training proved much more fruitful. She is now known as the Heavy
 Kallands training has also paid off he’s made it to the final 3 for the Artificer School, now he just needs to invent something lighter than air before opening ceremonies in 1 weeks time. Kalland also turned in the dark magic item we found, possibly as a bribe to get it?
 
 It seems Provost Menatis studies the ancient elves and is grateful for the information we’ve uncovered so far. He may be a great ally as we continue on our journey. He even gives us more information of the pool we seek. Celestial Fighters called Yali protect the pool as long as we are good of heart and have no ill intention they should allow us to enter.
+
+## Training Arc 2 (Session 15)
+During the week leading up to the festival, I decided to continue my training. I met with Blade Sister Beladora. She trained me in the way of the archer. The first 3 days I never touched a bow, instead we focused on the mindset. To increase my patience and perception we often meditated. Afterwards we did a city walk. Beladora asked me questionsof the small details she noticed, and the importance of taking notice of distant things and possible threats. Finally I was able to pick up a bow. She shot 12 plates into the air, but I only had 10 arrows. A true archer would be able to hit all 12. I only hit 9, but she was impressed with my growth in such a short time. At the end of training Beladora gifted me 4 sacred arrows.
+
+During my training I met Blade Sister Solfinia Geldius. She is a minor noble South of the city. She was one of Zeadora's closest friends. When we spoke of her disappearance it seemed like she was holding back. I eventually aproached her, told her of my visions and that I plan to look for Zeadora during my travels. Despite my good intentions, she swore an oath to keep certain knowledge private. I decided to mention Tavish, this got her attention. She tried to avoid eye contact, eventually give up a bit of what she knew. After telling me she avoided me, partially out of shame.
+> I know Tavish Drakomir would never hurt Zeadora. I can't say the same of his family.
+
+## Festival Week (Session 15)
+The tower of knowlege was perfectly white and gleamed in the sunlight. The tower is only outdone by the glistening golden dome of the Temple of Amanar. The group split up to take on different tasks for the day. I decided to do some work for the temple.
+
+### Bodyguarding in the Lake District
+I was assigned to protect the Sacred Courtisans at the Noble Charter in the Lake District. The sisters of the veil provide comfort through massage, music, and dancing. No issues are expected, but the added reminder is always good to have. This is where Zeadora would normally be posted. 
+
+A young noble and his entourage began making a ruckus, trying to pick a fight with another noble of bloodlines. Although they were not threatening the Sacred Courtisans, this put me on edge. I asked Sister Danon if we should intervene, I'm not used to interacting with nobles.She assured me that any action was up to our discretion, in the city we can carry out justice within reason to ensure safety. Although there is no immediate thread it will look poorly on us if the situation ends in bloodshed because we intervened or failed to. I decided to take a cautious approach and post myself directly next to the young noble. I think I intimidated him and the situation was diffused. 
+
+While in the company of nobles I picked up on some whispers between them. Some was commentary on saving Eugene Balewife from Baltar Lazero. Apparently Baltar has been on quite the terror lately and has been solving disputes with his sword. Many of the nobles discussed the current poltical situation. Many of them believe Prefect Basilio has gone mad. He sees threats everywhere and has begun hiring assassins on merchants suspected of smuggling. 
+
+### Gladitorial Arena Beast Fight
+It is the day of the beast fight and the arena is full of spectators. Grug, Zulban and I had no idea what we would be facing. The High Mage of Divination ensured fairness of the games and safety of patrons. A magical dome surrounded the arena and all participants were checked to be under no magical influence. When we entered the arena there were rocks scattered across the field. Then they released the chimera. The chimera was caught in the Istrich Forest and had been terrorizing Tor Aura. It had 3 heads, that of a goat, lion, and red dragon. I did my usual hit and run which was not a hit with the crowd, I dont think they even noticed when I landed a hit. The crowd really lost their minds at the end when Zulban landed a finishing blow on the red dragon head. A true dwarven victory as many saw the red dragon head as a representation of the oppressive red dragon currently ruling the dwarves. We each recieved a silver laurel with the date, giving us prestige when we wear it.
 
 ## Shit Hit the Fan (Session 16)
 After a sucessful match in the gladitorial arena, I went to celebrate with my sisters and rest while the others caught another fight. Everyone was celebrating and having a good time at the temple until 4 prefecture guards appeared in the early evening. They asked for Valara, stating that the prefect needed her council IMMEDIATELY.
