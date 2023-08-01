@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-07-24T22:38:33.185Z
+date: 2023-08-01T15:01:57.715Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -98,3 +98,29 @@ It seems Grugs training proved much more fruitful. She is now known as the Heavy
 Kallands training has also paid off he’s made it to the final 3 for the Artificer School, now he just needs to invent something lighter than air before opening ceremonies in 1 weeks time. Kalland also turned in the dark magic item we found, possibly as a bribe to get it?
 
 It seems Provost Menatis studies the ancient elves and is grateful for the information we’ve uncovered so far. He may be a great ally as we continue on our journey. He even gives us more information of the pool we seek. Celestial Fighters called Yali protect the pool as long as we are good of heart and have no ill intention they should allow us to enter.
+
+## Shit Hit the Fan (Session 16)
+After a sucessful match in the gladitorial arena, I went to celebrate with my sisters and rest while the others caught another fight. Everyone was celebrating and having a good time at the temple until 4 prefecture guards appeared in the early evening. They asked for Valara, stating that the prefect needed her council IMMEDIATELY.
+
+I went to Beladora, one of Valra's second in command to find out any information. She didn't know what was happeneing, but it can only mean there is a threat to the city. In true Beladora fashion she advised me to be patient and not to limit my focus to my vision, but don't rule them out as connected either. 
+
+I left the temple shortly after to meet up with the group at the Mercenary's Guild to figure out our next move. Many of the temples we stirring. The paladins of the Winged Sun joined the bolstered city watch. Both lightly armed and heavily armed folks could be seen throught the city. Something big was going on, it just isn't clear what. 
+
+More and more people began to return to the Mercenary Guild. Many different accounts of the situation were being discussed. Eventually Bal returned to confirm the stories.
+> A dragon with purple flames attacked Ceadonace at sunset last night. those touched by the flames were reformed as mosterous creatures and began attacking their neighbors
+
+> Increased troll folk and wyvern are making their way to the borderforts along the river between the wastes.
+
+> Ogres and hillgiants have come down the mountain and are attacking Tor Tel
+
+>The Bandit Drusis is sacking and burning villages along the Viaspen Forest. Making it difficult to combat army in the front, drusis in the back, and aerial attacks. 25,000 Gold & Vestiture for the group that brings back Drusis' head.
+
+>Troops of city guard, led by paladins are managing the undead threat. Our recent efforts in the sewers increased patrols, allowing Cyfaraun to manage the undead attacks.
+
+We immediately headed to the docks to charter a boat down the lake tothe Viaspen Forest. Luckily, the guards at the docks recognized Grug from her recent work down there and offer to bring us on their trip to Tor Orn as added muscle. The only stipulations were that they were leaving now and it'd be a one way trip. We quickly boarded for the 8hr trip to Tor Orn. 
+
+Once we landed we quickly made our way to the edge of the Viaspin Forest. We decided to stay on the road and check out the villages close by for any signs of trouble, or recently ransaked villages. We came across the burned remains of a village. Was likely destroyed in the last 48hrs, we could see movement within the reminant structures. When we investigated we found 3 opportunistic creatures feasting on remains. We fought them off until they flew back into the woods. There were no signs of survivors but we did find tracks.
+
+It looks like a group of 30 bandits attacked. They took their dead with them and any survivors in wagons. Some survivors were forced to walk. They have at least a day on us, but at least we have a lead. 
+
+
