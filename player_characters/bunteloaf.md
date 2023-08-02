@@ -1,15 +1,18 @@
 ---
 title: Bunteloaf
-description: 
+description: Kalland's Steel Defender
 published: true
-date: 2023-07-30T15:37:14.894Z
+date: 2023-08-02T16:22:01.576Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:30.872Z
 ---
 
-[Kalland's](/player_characters/kalland) steel defender.
 
+[Kalland's](/player_characters/kalland) steel defender.
+![bunte.jpg](/characters/bunte.jpg)
+
+# Traits
 • Armor Class: 15
 
 • Speed: 40ft
@@ -39,4 +42,3 @@ Hit Points: 27
 Unarmed Strike
 You can punch, kick, head-butt, or use a similar forceful blow and deal bludgeoning damage equal to 1 + STR modifier
 
-![bunte.jpg](/characters/bunte.jpg)
