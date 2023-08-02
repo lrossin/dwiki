@@ -2,7 +2,7 @@
 title: Burr
 description: 
 published: true
-date: 2023-08-02T16:39:48.198Z
+date: 2023-08-02T16:41:41.402Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:32.969Z
@@ -17,6 +17,11 @@ Friends with [Grug](/player_characters/grug).
 - Armor Class: 15
 - Hit Points: 49 (4d10 +12)
 - Speed: 40ft, Climb Speed: 30ft
+- Saving throws: DEX +2 WIS +3
+- Skills: Athletics +4 Perception +1
+- Condition Immunities: Charmed, Frightened
+- Senses: Passive Preception 13
+- Language: Sylvan
 
 # Actions
 ## Bite
