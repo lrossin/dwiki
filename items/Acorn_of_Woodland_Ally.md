@@ -1,15 +1,14 @@
 ---
 title: Acorn of Woodland Ally
-description: Rare Wonderous Item
+description: Wonderous Item, Rare (consumable)
 published: true
-date: 2023-08-02T16:03:25.206Z
-tags: item, wondrous item
+date: 2023-08-02T16:04:47.489Z
+tags: item, wondrous item, rare
 editor: markdown
 dateCreated: 2023-07-23T13:52:09.864Z
 ---
 
-# Acorn Of Woodland Ally
-Wonderous item
+
 ![burr_oak_acorns.png](/items/burr_oak_acorns.png)
 ## History:
 
