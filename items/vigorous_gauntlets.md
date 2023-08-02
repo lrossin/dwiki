@@ -1,8 +1,8 @@
 ---
-title: Roaring Lion Mask
-description: magic item, uncommon, (requires attunement)
+title: Vigorous Gauntlets
+description: Wonderous item, uncommon, (requires attunement)
 published: true
-date: 2023-08-02T16:19:25.154Z
+date: 2023-08-02T16:19:53.091Z
 tags: item, requires attunement, uncommon, magic item
 editor: markdown
 dateCreated: 2023-08-02T16:19:25.154Z
