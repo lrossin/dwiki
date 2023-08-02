@@ -2,14 +2,14 @@
 title: Bunteloaf
 description: Kalland's Steel Defender
 published: true
-date: 2023-08-02T16:25:31.590Z
+date: 2023-08-02T16:26:43.925Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:30.872Z
 ---
 
 
-[Kalland's](/player_characters/kalland) steel defender.
+[Kalland's](/player_characters/kalland) steel defender. Oddly life like for a steel defender. Has a personality and dog like tendencies.
 ![bunte.jpg](/characters/bunte.jpg)
 
 # Traits
