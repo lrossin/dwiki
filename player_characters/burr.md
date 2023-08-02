@@ -2,7 +2,7 @@
 title: Burr
 description: 
 published: true
-date: 2023-08-02T16:41:41.402Z
+date: 2023-08-02T16:41:56.210Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:32.969Z
