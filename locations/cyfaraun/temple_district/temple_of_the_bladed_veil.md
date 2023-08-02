@@ -2,7 +2,7 @@
 title: Temple of the Bladed Veil
 description: Temple of Ianna in Cyfaraun
 published: true
-date: 2023-07-27T18:23:53.413Z
+date: 2023-08-02T21:33:46.550Z
 tags: location, cyfaraun, temple district, ianna, temple
 editor: markdown
 dateCreated: 2023-07-27T18:11:17.438Z
@@ -20,5 +20,7 @@ Upstairs is almost entirely training rooms. Only members are allowed upstairs, u
 # Rumours
 *rumours about this location and the source go here*
 
-# Notable Locations
-*Any interesting locations go here. They may or may not have thier own page.*
+# Notable NPCs
+- Blade Dancer [Valara](/npcs/Blade_Dancer_Valara)
+- Blade Sister [Beladora](/npcs/Beladora)
+- [Zeadora Ambador](/npcs/zeadora_ambador)
