@@ -2,7 +2,7 @@
 title: Acorn of Woodland Ally
 description: Rare Wonderous Item
 published: true
-date: 2023-07-24T22:51:13.064Z
+date: 2023-08-02T16:03:25.206Z
 tags: item, wondrous item
 editor: markdown
 dateCreated: 2023-07-23T13:52:09.864Z
@@ -11,11 +11,11 @@ dateCreated: 2023-07-23T13:52:09.864Z
 # Acorn Of Woodland Ally
 Wonderous item
 ![burr_oak_acorns.png](/items/burr_oak_acorns.png)
-History:
+## History:
 
 Silvery acorns dropped when the [Bough of the Wandering Oak](/items/Bough_of_the_Wandering_Oak) reaches maturity. Four were dropped the first time the Oak reached full size.
 
-Item Description:
+## Item Description:
 
 Silver Acorns are gifted by the spirit of a wandering Oak. These pewter acorns are roughly the size of a mans thumb. They grow and drop from the first yield of a newly planted Wandering Oak. These acorns commemorate the bond between the oak and its planter and only function for the one who planted the tree. In future mast years the oak may yield additional Silver Acorns.
 
