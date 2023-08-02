@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-07-28T18:50:49.141Z
+date: 2023-08-02T16:13:07.195Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -30,7 +30,7 @@ Duration: 1 hour
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
-## Six Toxic Hand Crossbow Bolts, DC 14, Toxin
+## 20 Toxic Hand Crossbow Bolts, DC 14, Toxin
 
 ## Four Vials To Store Poisons
 - 1 unit of powedered Gut Rot poison
