@@ -1,28 +1,26 @@
 ---
 title: Bough of the Wandering Oak
-description: Grug's Maul
+description: Maul, uncommon (requires attunement)
 published: true
-date: 2023-07-23T18:36:24.990Z
+date: 2023-08-02T16:07:05.639Z
 tags: item, magic item
 editor: markdown
 dateCreated: 2023-07-23T13:35:39.710Z
 ---
 
 ![great_club_colossal_weapon_elden_ring_wiki_guide_200px.png](/items/great_club_colossal_weapon_elden_ring_wiki_guide_200px.png)
-Bough of the Wandering Oak
-Magic item
 
 +1 Magical Weapon
 
 Requires attunement
 
-**History**: 
+## History:
 
 A branch of a Bur Oak that was inhabited by a dryad and given to [grug](/player_characters/grug). Grows stronger when allowed to grow to it's full size. It has currently grown once, after which it became a +1 maul and gained the magic property. In addition it dropped 4 Silver Acorns of Woodland Ally.
 
 ---
 
-**Item Description**:
+## Item Description:
 
 The attuned wielder of this maul may cast the cantrip Druidcraft at will
 
@@ -34,8 +32,8 @@ A silver accorn is a token which can be used to cast the spell Summon Fey at 3rd
 
 ---
 
-**Growth Log**:
-Full Growth #1: 
+## Growth Log:
+### Full Growth #1: 
 Location: Calvinus Manor outside Cyfaraun
 Benefit: +1/Magical, 4 Acorns of Woodland Ally, 400lbs of regular acorns
 Commune Knowledge: There is one Dryad named Aparine 2 miles down river near an ancient elven well and a powerful undead in some kind of tomb structure under a hill 2 miles up river.
