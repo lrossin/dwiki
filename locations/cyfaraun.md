@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-08-06T16:38:52.064Z
+date: 2023-08-06T16:41:43.174Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -45,7 +45,7 @@ The city is bisected by the Mirimen River, and 3 bridges cross it.
 *TODO:info about festivals*
 - [Gambler's Quarter](/locations/cyfaraun/gamblers_quarter)
 
-## [Plaza District](/locatoins/cyfaraun/plaza_district)
+## [Plaza District](/locations/cyfaraun/plaza_district)
 
 ## [Old Town District](/locations/cyfaraun/old_town_district)
 Also refered to as Old City District.
