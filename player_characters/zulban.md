@@ -2,13 +2,13 @@
 title: Zulban Abantaron
 description: 
 published: true
-date: 2023-07-16T05:17:43.830Z
+date: 2023-08-06T16:01:47.710Z
 tags: character, player character, dwarf
 editor: markdown
-dateCreated: 2023-07-14T18:42:09.025Z
+dateCreated: 2023-07-18T00:42:43.627Z
 ---
 
-Zulban Abantaron is a hill dwarf from [Azen Radokh](/locations/cities/azen_radokh), a war domain cleric, and a current member of [A Functional Team](/player_characters).
+Zulban Abantaron is a hill dwarf from Azen Radokh, a war domain cleric, and a current member of [A Functional Team](/player_characters).
 
 ![](/characters/zulban.png)
 
