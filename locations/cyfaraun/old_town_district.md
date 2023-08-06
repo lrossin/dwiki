@@ -2,7 +2,7 @@
 title: Old City District
 description: The original footprint of Cyfaraun III stands within the walls of the old city. Many stone structures within this district demonstrate their elven origin though they have been repurposed by their Auran inhabitants.
 published: true
-date: 2023-08-02T15:58:51.374Z
+date: 2023-08-06T15:59:47.895Z
 tags: location, cyfaraun, district
 editor: markdown
 dateCreated: 2023-07-21T00:04:22.701Z
@@ -26,7 +26,7 @@ The Mink is a popular watering hole and trade hub for travelling caravaners and 
 - Galen the Apothecary
 - Sells herbs, poltices, etc.
 ### Dwarven Weapons & Armor
-- Vir Tor Meniri
+- [Vir Tor Meniri](/npcs/vir_tor_meniri)
 - Sells high quality armor, axes, and hammers (+1 non-magical)
 ### Iron Works
 - Elpides the Ironmonger
