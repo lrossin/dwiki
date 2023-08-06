@@ -2,7 +2,7 @@
 title: Cult of Dirgion the Doombringer
 description: Necromantic pricks
 published: true
-date: 2023-07-24T20:06:41.661Z
+date: 2023-07-24T20:06:43.776Z
 tags: faction, dirgion
 editor: markdown
 dateCreated: 2023-07-24T19:29:47.510Z

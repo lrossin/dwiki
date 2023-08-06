@@ -2,7 +2,7 @@
 title: Retired Sergeant Wirtham
 description: Current Guild Mercenary
 published: true
-date: 2023-07-23T15:24:22.461Z
+date: 2023-07-23T15:24:25.744Z
 tags: npc, mercenary
 editor: markdown
 dateCreated: 2023-07-23T14:50:15.454Z

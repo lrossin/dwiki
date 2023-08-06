@@ -2,10 +2,10 @@
 title: Ring of Healer's Heroism
 description: ring, uncommon (requires attunement by a spell caster)
 published: true
-date: 2023-07-15T17:06:25.910Z
+date: 2023-07-18T00:42:17.255Z
 tags: item, requires attunement, uncommon, ring, requires attunement by a spell caster
 editor: markdown
-dateCreated: 2023-07-15T17:03:19.061Z
+dateCreated: 2023-07-18T00:42:15.862Z
 ---
 
 When you use an action to restore hit points to a creature other than yourself while wearing this winged ring, you become infused with heroism. You gain temporary hit points equal to your spellcasting modifier, and until the end of your next turn, you are immune to being frightened.

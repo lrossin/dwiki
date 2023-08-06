@@ -2,7 +2,7 @@
 title: Bunteloaf
 description: Kalland's Steel Defender
 published: true
-date: 2023-08-02T16:26:43.925Z
+date: 2023-08-02T16:26:45.214Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:30.872Z

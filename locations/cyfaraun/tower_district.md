@@ -2,7 +2,7 @@
 title: Tower District
 description: Home to the many religious temples in Cyfaraun
 published: true
-date: 2023-07-27T15:36:20.270Z
+date: 2023-07-27T15:36:21.626Z
 tags: location, cyfaraun, district
 editor: markdown
 dateCreated: 2023-07-27T15:15:18.251Z

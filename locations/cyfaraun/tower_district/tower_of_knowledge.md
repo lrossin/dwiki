@@ -2,7 +2,7 @@
 title: Tower of Knowledge
 description: School of Magic in Cyfaraun
 published: true
-date: 2023-07-27T15:35:49.706Z
+date: 2023-07-27T15:35:51.260Z
 tags: faction, location, cyfaraun, tower district, istrius
 editor: markdown
 dateCreated: 2023-07-24T21:13:29.814Z

@@ -2,7 +2,7 @@
 title: Grug
 description: 
 published: true
-date: 2023-08-02T21:16:10.475Z
+date: 2023-08-02T21:16:11.922Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:37.216Z

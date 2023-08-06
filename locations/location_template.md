@@ -2,10 +2,10 @@
 title: Location Template
 description: 
 published: true
-date: 2023-07-16T05:09:28.266Z
+date: 2023-07-18T00:42:25.401Z
 tags: location
 editor: markdown
-dateCreated: 2023-07-16T05:02:44.843Z
+dateCreated: 2023-07-18T00:42:24.128Z
 ---
 
 # Description

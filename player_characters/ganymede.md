@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-08-02T16:13:07.195Z
+date: 2023-08-02T16:13:08.523Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z

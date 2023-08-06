@@ -2,10 +2,10 @@
 title: NPC Template
 description: 
 published: true
-date: 2023-07-16T05:12:01.370Z
+date: 2023-07-18T00:42:29.986Z
 tags: character, npc
 editor: markdown
-dateCreated: 2023-07-16T05:00:36.519Z
+dateCreated: 2023-07-18T00:42:28.615Z
 ---
 
 # Description

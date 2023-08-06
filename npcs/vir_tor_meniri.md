@@ -2,7 +2,7 @@
 title: Vir Tor Meniri
 description: 
 published: true
-date: 2023-08-06T16:15:46.123Z
+date: 2023-08-06T16:26:15.513Z
 tags: npc, dwarf, merchant
 editor: markdown
 dateCreated: 2023-08-06T16:11:58.288Z

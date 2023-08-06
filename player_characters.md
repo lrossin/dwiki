@@ -2,7 +2,7 @@
 title: Player Characters
 description: 
 published: true
-date: 2023-07-18T03:17:55.429Z
+date: 2023-07-18T03:17:56.830Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:00.737Z

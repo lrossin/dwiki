@@ -2,7 +2,7 @@
 title: Scrying Rods
 description: 
 published: true
-date: 2023-08-01T16:09:33.619Z
+date: 2023-08-01T16:09:34.945Z
 tags: item, magic item, tower of knowledge
 editor: markdown
 dateCreated: 2023-08-01T16:02:48.585Z

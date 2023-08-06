@@ -2,7 +2,7 @@
 title: Justin Calvinus
 description: Game Warden
 published: true
-date: 2023-07-23T15:58:27.239Z
+date: 2023-07-23T15:58:28.490Z
 tags: npc
 editor: markdown
 dateCreated: 2023-07-23T14:14:03.223Z

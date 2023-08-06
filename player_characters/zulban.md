@@ -2,7 +2,7 @@
 title: Zulban Abantaron
 description: 
 published: true
-date: 2023-08-06T16:01:47.710Z
+date: 2023-08-06T16:01:49.444Z
 tags: character, player character, dwarf
 editor: markdown
 dateCreated: 2023-07-18T00:42:43.627Z

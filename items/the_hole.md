@@ -2,7 +2,7 @@
 title: The Portable Hole
 description: wondrous item, rare, minor tier
 published: true
-date: 2023-08-06T16:41:14.969Z
+date: 2023-08-06T16:41:16.288Z
 tags: item, wondrous item, rare, minor tier
 editor: markdown
 dateCreated: 2023-07-18T00:42:19.982Z

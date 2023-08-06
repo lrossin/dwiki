@@ -2,7 +2,7 @@
 title: Sand & Bone
 description: 
 published: true
-date: 2023-07-28T18:32:41.674Z
+date: 2023-07-28T18:32:42.944Z
 tags: blood & sand, faction
 editor: markdown
 dateCreated: 2023-07-18T00:42:03.126Z

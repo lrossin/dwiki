@@ -2,7 +2,7 @@
 title: Sir Kalland Boondiggles
 description: 
 published: true
-date: 2023-07-30T15:44:43.709Z
+date: 2023-08-01T15:58:59.320Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:39.393Z

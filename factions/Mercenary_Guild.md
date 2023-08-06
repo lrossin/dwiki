@@ -2,7 +2,7 @@
 title: Mercenary Guild
 description: Exactly what it sounds like
 published: true
-date: 2023-07-24T17:06:29.699Z
+date: 2023-07-24T17:06:31.137Z
 tags: faction, mercenary guild
 editor: markdown
 dateCreated: 2023-07-23T15:41:35.872Z

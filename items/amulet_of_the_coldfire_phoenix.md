@@ -2,10 +2,10 @@
 title: Amulet of the Coldfire Phoenix
 description: wondrous item, very rare (requires attunement)
 published: true
-date: 2023-07-16T15:32:34.771Z
+date: 2023-07-18T00:42:08.817Z
 tags: item, wondrous item, requires attunement, very rare
 editor: markdown
-dateCreated: 2023-07-16T04:50:31.669Z
+dateCreated: 2023-07-18T00:42:07.439Z
 ---
 
 A blue metallic pendant in the shape of a phoenix clutching a shimmering blue orb hangs from this leather cord. While wearing the necklace, you emit a frigid aura that grants you and creatures of your choice within 10 feet of you resistance to cold damage.

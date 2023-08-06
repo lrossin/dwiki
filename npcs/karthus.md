@@ -2,7 +2,7 @@
 title: Karthus
 description: Fight Promoter
 published: true
-date: 2023-07-25T21:21:04.005Z
+date: 2023-07-25T21:21:05.369Z
 tags: character, npc, old town district
 editor: markdown
 dateCreated: 2023-07-25T21:21:04.005Z

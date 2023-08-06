@@ -2,7 +2,7 @@
 title: Regent Aures Ambador
 description: Head of the Tower of Knowledge in Cyfaraun
 published: true
-date: 2023-07-27T15:37:15.621Z
+date: 2023-07-27T15:37:16.913Z
 tags: character, npc, tower of knowledge
 editor: markdown
 dateCreated: 2023-07-22T19:53:04.013Z

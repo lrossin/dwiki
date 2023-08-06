@@ -2,7 +2,7 @@
 title: Bough of the Wandering Oak
 description: Maul, uncommon (requires attunement)
 published: true
-date: 2023-08-02T16:07:05.639Z
+date: 2023-08-02T16:07:06.963Z
 tags: item, magic item
 editor: markdown
 dateCreated: 2023-07-23T13:35:39.710Z

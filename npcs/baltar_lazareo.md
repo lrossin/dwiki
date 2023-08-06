@@ -2,7 +2,7 @@
 title: Baltar Lazareo
 description: Cousin to the head of the Lazareo family and a short tempered dueler 
 published: true
-date: 2023-07-25T02:17:08.983Z
+date: 2023-07-25T02:18:00.956Z
 tags: character, npc, lazareo
 editor: markdown
 dateCreated: 2023-07-25T02:17:08.983Z

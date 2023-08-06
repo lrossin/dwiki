@@ -2,7 +2,7 @@
 title: Temple of the Bladed Veil
 description: Temple of Ianna in Cyfaraun
 published: true
-date: 2023-08-02T21:33:46.550Z
+date: 2023-08-02T21:33:47.898Z
 tags: location, cyfaraun, temple district, ianna, temple
 editor: markdown
 dateCreated: 2023-07-27T18:11:17.438Z

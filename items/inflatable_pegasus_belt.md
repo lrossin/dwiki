@@ -2,10 +2,10 @@
 title: Inflatable Pegasus Belt
 description: wondrous item, uncommon
 published: true
-date: 2023-07-15T17:05:48.428Z
+date: 2023-07-18T00:42:13.019Z
 tags: item, wondrous item, uncommon
 editor: markdown
-dateCreated: 2023-07-15T16:52:43.187Z
+dateCreated: 2023-07-18T00:42:11.693Z
 ---
 
 While wearing this belt, you can use your reaction and pronounce its

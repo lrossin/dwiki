@@ -2,7 +2,7 @@
 title: Claw of Ianna
 description: sword, uncommon (requires attunement)
 published: true
-date: 2023-08-02T16:12:14.406Z
+date: 2023-08-02T16:12:15.657Z
 tags: item, uncommon, magic item, weapon
 editor: markdown
 dateCreated: 2023-07-30T15:23:06.661Z

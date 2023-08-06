@@ -2,7 +2,7 @@
 title: Faction Template
 description: 
 published: true
-date: 2023-07-24T17:03:42.268Z
+date: 2023-07-24T17:03:43.926Z
 tags: faction
 editor: markdown
 dateCreated: 2023-07-18T00:42:05.320Z

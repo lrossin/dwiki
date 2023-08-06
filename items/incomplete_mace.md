@@ -2,7 +2,7 @@
 title: Incomplete mace
 description: 
 published: true
-date: 2023-07-18T04:05:10.409Z
+date: 2023-07-27T15:13:18.265Z
 tags: item
 editor: markdown
 dateCreated: 2023-07-18T00:42:09.547Z

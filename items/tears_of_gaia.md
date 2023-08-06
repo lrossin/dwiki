@@ -2,7 +2,7 @@
 title: Tears Of Gaia
 description: wondrous item, uncommon
 published: true
-date: 2023-07-30T15:27:52.878Z
+date: 2023-07-30T15:27:54.188Z
 tags: wondrous item, uncommon, magic item
 editor: markdown
 dateCreated: 2023-07-30T15:27:52.878Z

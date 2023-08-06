@@ -2,7 +2,7 @@
 title: Swizzle Nixlerod
 description: 
 published: true
-date: 2023-07-24T22:32:17.056Z
+date: 2023-07-24T22:32:18.357Z
 tags: npc, gnome, bard
 editor: markdown
 dateCreated: 2023-07-24T22:32:17.056Z

@@ -2,8 +2,8 @@
 title: Dordin
 description: Assistant Vault Master
 published: true
-date: 2023-07-26T01:30:16.612Z
-tags: npc, tower of knowledge, orc, assistant, artificer, workshop
+date: 2023-07-26T01:30:18.431Z
+tags: tower of knowledge, orc, assistant, artificer, workshop, npc
 editor: markdown
 dateCreated: 2023-07-24T22:38:41.612Z
 ---

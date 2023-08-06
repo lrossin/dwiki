@@ -2,7 +2,7 @@
 title: "Vidi"
 description: A mysterious stranger with excellent taste in wine
 published: true
-date: 2023-07-28T18:52:03.465Z
+date: 2023-07-28T18:52:04.776Z
 tags: npc, ???
 editor: markdown
 dateCreated: 2023-07-25T02:48:42.752Z

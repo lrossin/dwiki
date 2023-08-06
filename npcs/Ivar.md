@@ -2,7 +2,7 @@
 title: Ivar
 description: Mercenary
 published: true
-date: 2023-07-23T15:21:22.158Z
+date: 2023-07-23T15:21:23.505Z
 tags: npc, mercenary
 editor: markdown
 dateCreated: 2023-07-23T15:21:22.158Z

@@ -2,7 +2,7 @@
 title: Nestromo
 description: 
 published: true
-date: 2023-07-24T22:50:32.761Z
+date: 2023-07-24T22:50:34.103Z
 tags: npc, dwarf, artificer, shopkeeper
 editor: markdown
 dateCreated: 2023-07-24T22:50:32.761Z

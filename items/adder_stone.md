@@ -2,7 +2,7 @@
 title: Adder Stone
 description: wonderous item, uncommon, consumable
 published: true
-date: 2023-08-01T15:59:26.391Z
+date: 2023-08-01T15:59:27.622Z
 tags: item, uncommon, magic item, wonderous item
 editor: markdown
 dateCreated: 2023-08-01T15:58:57.229Z

@@ -2,7 +2,7 @@
 title: City Guard
 description: The City Guard consists of 335 members who uphold the rule of law in the city of Cyfaraun.
 published: true
-date: 2023-07-28T18:31:58.514Z
+date: 2023-07-28T18:31:59.884Z
 tags: faction, city guard
 editor: markdown
 dateCreated: 2023-07-24T16:51:18.179Z

@@ -2,7 +2,7 @@
 title: Barnabas
 description: the Honey Merchant
 published: true
-date: 2023-07-23T15:05:14.808Z
+date: 2023-07-24T21:13:32.120Z
 tags: character, blood & sand, npc
 editor: markdown
 dateCreated: 2023-07-18T00:42:26.471Z
