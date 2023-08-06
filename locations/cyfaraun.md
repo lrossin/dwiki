@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-08-06T16:38:15.184Z
+date: 2023-08-06T16:38:52.064Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -54,7 +54,7 @@ Location of the Emporium, where a large number of merchants have set up shop.
 ## [Palace District](/locations/cyfaraun/palace_district)
 
 ## [Tower District](/locations/cyfaraun/tower_district)
-- [Tower of Knowledge](/locations/cyfaraun/tower_of_knowledge)
+- [Tower of Knowledge](/locations/cyfaraun/tower_district/tower_of_knowledge)
 
 ## [Temple District](/locations/cyfaraun/temple_district)
 - [Temple of the Bladed Veil](/locations/cyfaraun/temple_district/temple_of_the_bladed_veil)
