@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-01T19:25:55.917Z
+date: 2023-08-10T14:39:53.940Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -145,4 +145,7 @@ Once we landed we quickly made our way to the edge of the Viaspin Forest. We dec
 
 It looks like a group of 30 bandits attacked. They took their dead with them and any survivors in wagons. Some survivors were forced to walk. They have at least a day on us, but at least we have a lead. 
 
+## Closing in on the Bandit Camp (Session 17)
+We followed the wagon trail to a cave where they had stashed the wagons and continued on foot. We decided to set up camp there for the night and were awoken by Bunteloaf after Grug disappeared into the moonlight. She was lured out by snake like women, but luckily we stopped them. My sword seemed to react to killing one of the snake like creatures, I wonder what that could mean.
 
+The next morning we set out after the tracks. It seemed that groups of 5 split off from the main group. We decided to follow the main tracks, as they likely led directly to the camp. Eventually we were ambushed by bandits hiding in the woods and a giant. Luckily we defeated them, but this must mean we are getting close! We should proceed more carefully moving forward.
