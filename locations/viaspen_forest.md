@@ -1,8 +1,8 @@
 ---
 title: Viaspen Forest
-description: A dense forest south of Cyfaraun, populated by bandits and nerdowells 
+description: A dense forest south of Cyfaraun, lake Laman, the Viamir Marshes, t Tem, t Spen, and t Orn border the forest
 published: true
-date: 2023-08-24T16:31:55.652Z
+date: 2023-08-24T17:58:46.912Z
 tags: location, aura
 editor: markdown
 dateCreated: 2023-08-24T13:33:16.688Z
