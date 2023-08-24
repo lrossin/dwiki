@@ -2,8 +2,8 @@
 title: Drusis
 description: Leads the bandits plaguing Viaspen Forest
 published: true
-date: 2023-08-24T17:05:58.829Z
-tags: npcs
+date: 2023-08-24T17:07:57.015Z
+tags: npc
 editor: markdown
 dateCreated: 2023-08-24T17:05:58.829Z
 ---
