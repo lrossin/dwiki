@@ -2,7 +2,7 @@
 title: Ganymede
 description: 
 published: true
-date: 2023-08-02T16:13:08.523Z
+date: 2023-08-24T13:30:15.169Z
 tags: character, player character
 editor: markdown
 dateCreated: 2023-07-18T00:42:35.078Z
@@ -21,15 +21,7 @@ Ganymede is a human(?), from somewhere, a warlock of some sort, and a current me
 ## Poisoners Kit
 ## Thieves Tools
 
-## Vial of False Life
- Casting Time: 1 action
-Range: Self
-Components: V, S, M (a small amount of alcohol or distilled spirits)
-Duration: 1 hour
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
-
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 ## 20 Toxic Hand Crossbow Bolts, DC 14, Toxin
 
 ## Four Vials To Store Poisons
