@@ -2,8 +2,8 @@
 title: Viaspen Forest
 description: A dense forest south of Cyfaraun, populated by bandits and nerdowells 
 published: true
-date: 2023-08-24T13:33:16.688Z
-tags: aura
+date: 2023-08-24T13:34:51.685Z
+tags: location, aura
 editor: markdown
 dateCreated: 2023-08-24T13:33:16.688Z
 ---
