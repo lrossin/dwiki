@@ -1,8 +1,8 @@
 ---
 title: Chief Osvald Ulfricson
-description: Cousin to the head of the Lazareo family and a short tempered dueler 
+description: 
 published: true
-date: 2023-07-25T00:11:33.823Z
+date: 2023-08-24T16:38:01.504Z
 tags: character, npc, drakomir
 editor: markdown
 dateCreated: 2023-07-24T17:30:59.967Z
