@@ -2,7 +2,7 @@
 title: Viaspen Forest
 description: A dense forest south of Cyfaraun, lake Laman, the Viamir Marshes, t Tem, t Spen, and t Orn border the forest
 published: true
-date: 2023-08-24T17:58:46.912Z
+date: 2023-08-29T12:47:48.062Z
 tags: location, aura
 editor: markdown
 dateCreated: 2023-08-24T13:33:16.688Z
@@ -13,6 +13,7 @@ A bounty has been placed on the party of bandits terrorizing the forest and surr
 
 Thanks to the local critters, we have found their encampment in a quarry and begun our assault, fearsome as they may be. 
 
+### Damn, they got hands
 
 # The Altar of Mityara
 An abandoned altar to Mityara, an elven Goddess of healing, allegedly rests somewhere in these treacherous woods and holds the power to remove Dirgions curse from those of us afflicted. This information was gleaned first through Galmorm, and confirmed by the Blade Dancers.
