@@ -1,9 +1,9 @@
 ---
 title: Twinned Scimitars
-description: Weapon, Uncommon
+description: weapon, uncommon (requires attunement)
 published: true
-date: 2023-09-18T17:42:25.052Z
-tags: uncommon, magic item, weapon
+date: 2023-09-18T17:43:48.758Z
+tags: requires attunement, uncommon, magic item, weapon, charges
 editor: markdown
 dateCreated: 2023-09-18T17:42:25.052Z
 ---
