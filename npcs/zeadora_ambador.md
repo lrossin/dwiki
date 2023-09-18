@@ -2,7 +2,7 @@
 title: Zeadora Ambador
 description: Blade Sister of Ianna
 published: true
-date: 2023-09-18T17:54:54.518Z
+date: 2023-09-18T17:56:23.920Z
 tags: npc, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-23T16:54:28.483Z
@@ -10,6 +10,8 @@ dateCreated: 2023-07-23T16:54:28.483Z
 
 # Description
 Star pupil of [Blade Dancer Valara](/npcs/Blade_Dancer_Valara)
+
+Owned the [Twinned Scimitars](/items/Twinned_Scimitars) of Ianna
 
 
 # Rumours
