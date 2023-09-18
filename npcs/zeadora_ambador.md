@@ -2,7 +2,7 @@
 title: Zeadora Ambador
 description: Blade Sister of Ianna
 published: true
-date: 2023-09-18T17:56:23.920Z
+date: 2023-09-18T18:06:12.345Z
 tags: npc, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-23T16:54:28.483Z
@@ -25,6 +25,7 @@ Owned the [Twinned Scimitars](/items/Twinned_Scimitars) of Ianna
 > - Notes from Drusis' office
 
 # Interaction with Party
+## Temple of Ianna
 Have only heard of her recent disappearance. She had similar visions to Praahi. We hope to find some trace of her and Paladin Tavish when we head East.
-
+## Bandit Camp
 She was not at the bandit camp, but we found her swords and know where she was sent. We promised Tavish we would continue looking for her.
