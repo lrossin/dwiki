@@ -1,8 +1,8 @@
 ---
 title: Drusis
-description: Leads the bandits plaguing Viaspen Forest
+description: Bandit Captain in Viaspen Forest
 published: true
-date: 2023-08-24T17:07:57.015Z
+date: 2023-09-18T17:58:04.749Z
 tags: npc
 editor: markdown
 dateCreated: 2023-08-24T17:05:58.829Z
