@@ -2,7 +2,7 @@
 title: Drusis
 description: Bandit Captain in Viaspen Forest
 published: true
-date: 2023-09-18T18:29:31.598Z
+date: 2023-09-18T18:30:06.298Z
 tags: npc
 editor: markdown
 dateCreated: 2023-08-24T17:05:58.829Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-24T17:05:58.829Z
 # Description
 A well manored man who used to serve in _____, because of this he runs the bandits much like a military. 
 
-He is currently in league with the Temple of Iskara, although he himself is not a believer. As long as the money is good he'll continue raiding villagers and turning over prisioners.  
+He is currently in league with the Temple of Iskara, although he himself is not a believer. As long as the money is good he'll continue raiding villages and turning over prisioners.  
 # Rumors
 > Drusis' Bandits are sacking and burning villages along the Viaspin Forest. There is a 25,000 GP bounty and vestiture for his head
 > - Mercenary Guild
