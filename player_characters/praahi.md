@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-09-18T17:32:40.225Z
+date: 2023-09-18T17:46:41.737Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -165,7 +165,7 @@ It seems anyone still at the camp fled including captain Drusis, the coward. All
 At the center of the camp is a 6ft tall stone obalisk smeared with blood. The building also had an alter with a figurine made of flesh and bone and offerings. Likely belongs to those mutated necromancers we saw defending the towers. The figurine surged with necromantic magic, we decided to confiscate it for the tower of knowledge, plopping it into the bag of holding.
 
 We also discovered a cellar used to store many things. Here we found more magical items. 
-- Twinned Scimitars belonging to [Zeadora](/npcs/zeadora_ambador)
+- [Twinned Scimitars](/items/Twinned_Scimitars) belonging to [Zeadora](/npcs/zeadora_ambador)
 - Shield of the Winged Sun belonging to Tavis
 - [Wand of Binding](/https://www.dndbeyond.com/magic-items/4788-wand-of-binding)
 - [Wand of Secrets](https://www.dndbeyond.com/magic-items/4797-wand-of-secrets)
