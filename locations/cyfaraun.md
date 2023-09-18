@@ -2,7 +2,7 @@
 title: Cyfaraun
 description: 
 published: true
-date: 2023-08-06T16:41:44.530Z
+date: 2023-09-18T17:50:03.436Z
 tags: city, location, cyfaraun
 editor: markdown
 dateCreated: 2023-07-18T00:42:22.118Z
@@ -59,5 +59,7 @@ Location of the Emporium, where a large number of merchants have set up shop.
 ## [Temple District](/locations/cyfaraun/temple_district)
 - [Temple of the Bladed Veil](/locations/cyfaraun/temple_district/temple_of_the_bladed_veil)
 - Temple of the Winged Sun
+- Temple of Mitjara
+- Hall of Ancestors
 
 
