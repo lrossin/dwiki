@@ -2,7 +2,7 @@
 title: Tavish Drakomir
 description: Paladin of the Winged Sun
 published: true
-date: 2023-09-18T18:22:50.444Z
+date: 2023-09-18T18:26:01.102Z
 tags: npc, drakomir, temple of the winged sun, paladin
 editor: markdown
 dateCreated: 2023-09-18T18:22:50.444Z
@@ -27,6 +27,6 @@ dateCreated: 2023-09-18T18:22:50.444Z
 
 # Interaction with Party
 ## Temple of Winged Sun
-Have only heard of his recent disappearance in persuit of [Zeadora](/npcs/zeadora_ambador). The members of the Winged Sun have asked for assistance finding him.
+Have only heard of his recent disappearance in persuit of [Zeadora](/npcs/zeadora_ambador). The Knights of the Winged Sun have asked for assistance finding him.
 ## Bandit Camp
 Tavish was found in the cage of prisioners at the bandit camp. He wants to continue his search, but is too weak. We heal him and ask him to help the prisioners get to Cyfaraun safely as they are not fighters. He agrees as long as we continue the search for Zeadora. We give him rations, his shield, and advice on his route back to the city. 
