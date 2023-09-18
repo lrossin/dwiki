@@ -2,7 +2,7 @@
 title: Praahi
 description: 
 published: true
-date: 2023-08-10T14:39:53.940Z
+date: 2023-09-18T17:32:40.225Z
 tags: character, player character, temple of the bladed veil
 editor: markdown
 dateCreated: 2023-07-18T00:42:41.592Z
@@ -145,7 +145,31 @@ Once we landed we quickly made our way to the edge of the Viaspin Forest. We dec
 
 It looks like a group of 30 bandits attacked. They took their dead with them and any survivors in wagons. Some survivors were forced to walk. They have at least a day on us, but at least we have a lead. 
 
-## Closing in on the Bandit Camp (Session 17)
+## Closing in on the Bandit Camp (Session 17/18)
 We followed the wagon trail to a cave where they had stashed the wagons and continued on foot. We decided to set up camp there for the night and were awoken by Bunteloaf after Grug disappeared into the moonlight. She was lured out by snake like women, but luckily we stopped them. My sword seemed to react to killing one of the snake like creatures, I wonder what that could mean.
 
 The next morning we set out after the tracks. It seemed that groups of 5 split off from the main group. We decided to follow the main tracks, as they likely led directly to the camp. Eventually we were ambushed by bandits hiding in the woods and a giant. Luckily we defeated them, but this must mean we are getting close! We should proceed more carefully moving forward.
+
+When looting the bandits we found a map on cured hyde. The map depicted the location of the camp and nearby towns to raid. It seems we are only a few miles from the camp itself. There seems to be another symbol on the map to the southeast, but we aren't sure what it indicates.
+
+Grug decided to consult some woodland creatures to get a better understanding of the local area and the foes we may face. A doe approaches her warning us of large creatures, bigger than Grug and wolves. The doe explains that many folks live near the stream to the south now and only the northwood is safe. The doe also spoke of fruit trees to the southeast that are no longer safe to graze.
+
+## Battle at the Bandit Camp (Session 19)
+As we head toward the camp there are many tracks, including large wolf tracks. I ran up ahead of the group and scouted for about an hour. There are 2 watchtowers with movement inside and an ogre and direwolf guarding each. There are bridges at each watchtower, one heading to a quarry with a 3rd watchtower and another larger bridge to the north with a building. The palacade fort is across the northern bridge. The sound of the stream covers most noise making it easier to sneak up on them.
+
+I returned to my compaignions and explained the situation. Despite my best effort it seems some of us were too loud to go unnoticed. A great battle broke out, but luckily we all survived and took control of the 2 towers. More ogres and dire wolves joined the battle but they were not match for a giant Grug!
+
+## Raiding the Camp (Session 20)
+It seems anyone still at the camp fled including captain Drusis, the coward. All the barricks and stables were empty, but it was clear they left in a hurry. 
+
+At the center of the camp is a 6ft tall stone obalisk smeared with blood. The building also had an alter with a figurine made of flesh and bone and offerings. Likely belongs to those mutated necromancers we saw defending the towers. The figurine surged with necromantic magic, we decided to confiscate it for the tower of knowledge, plopping it into the bag of holding.
+
+We also discovered a cellar used to store many things. Here we found more magical items. 
+- Twinned Scimitars belonging to [Zeadora](/npcs/zeadora_ambador)
+- Shield of the Winged Sun belonging to Tavis
+- [Wand of Binding](/https://www.dndbeyond.com/magic-items/4788-wand-of-binding)
+- [Wand of Secrets](https://www.dndbeyond.com/magic-items/4797-wand-of-secrets)
+- [Wand of Magic Detection](https://www.dndbeyond.com/magic-items/4793-wand-of-magic-detection)
+
+
+
